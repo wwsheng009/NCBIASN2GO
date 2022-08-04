@@ -1,0 +1,3192 @@
+{
+    "Seq_entry": {
+        "set": {
+            "level": 1,
+            "class": "nuc-prot",
+            "descr": [{
+                    "source": {
+                        "genome": 1,
+                        "org": {
+                            "taxname": "Homo sapiens",
+                            "common": "human",
+                            "db": [{
+                                "db": "taxon",
+                                "tag": {
+                                    "id": 9606
+                                }
+                            }],
+                            "orgname": {
+                                "name": {
+                                    "binomial": {
+                                        "genus": "Homo",
+                                        "species": "sapiens"
+                                    }
+                                },
+                                "attrib": "specified",
+                                "lineage": "Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo",
+                                "gcode": 1,
+                                "mgcode": 2,
+                                "div": "PRI"
+                            }
+                        },
+                        "subtype": [{
+                                "subtype": 1,
+                                "name": "11"
+                            },
+                            {
+                                "subtype": 2,
+                                "name": "11q23.3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "pub": {
+                        "pub": [{
+                                "pmid": 34595980
+                            },
+                            {
+                                "article": {
+                                    "title": [{
+                                        "name": "TMPRSS4 overexpression promotes the metastasis of colorectal cancer and predicts poor prognosis of stage III-IV colorectal cancer."
+                                    }],
+                                    "authors": {
+                                        "names": {
+                                            "std": [{
+                                                    "name": {
+                                                        "ml": "Zhao XF"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of General Surgery, 194043Dalian University Affiliated Xinhua Hospital, Dalian, Liaoning, China."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Yang YS"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of General Surgery, 194043Dalian University Affiliated Xinhua Hospital, Dalian, Liaoning, China."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Gao DZ"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of General Surgery, 194043Dalian University Affiliated Xinhua Hospital, Dalian, Liaoning, China."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Park YK"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of General Surgery, 65722Chonnam National University Hwasun Hospital, Jeollanamdo, Republic of Korea."
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "from": {
+                                        "journal": {
+                                            "title": [{
+                                                    "iso_jta": "Int J Biol Markers"
+                                                },
+                                                {
+                                                    "ml_jta": "Int J Biol Markers"
+                                                },
+                                                {
+                                                    "issn": "1724-6008"
+                                                },
+                                                {
+                                                    "name": "The International journal of biological markers"
+                                                }
+                                            ],
+                                            "imp": {
+                                                "date": {
+                                                    "std": {
+                                                        "year": 2021,
+                                                        "month": 9
+                                                    }
+                                                },
+                                                "volume": "36",
+                                                "issue": "3",
+                                                "pages": "23-32",
+                                                "language": "eng",
+                                                "pubstatus": 4,
+                                                "history": [{
+                                                        "pubstatus": 8,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 10,
+                                                                "day": 2,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 12,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2022,
+                                                                "month": 1,
+                                                                "day": 14,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 255,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 10,
+                                                                "day": 1,
+                                                                "hour": 8,
+                                                                "minute": 40
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "ids": [{
+                                            "pubmed": 34595980
+                                        },
+                                        {
+                                            "doi": "10.1177/17246008211046368"
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "ELocationID doi",
+                                                "tag": {
+                                                    "str": "10.1177/17246008211046368"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "comment": "GeneRIF: TMPRSS4 overexpression promotes the metastasis of colorectal cancer and predicts poor prognosis of stage III-IV colorectal cancer."
+                    }
+                },
+                {
+                    "pub": {
+                        "pub": [{
+                                "pmid": 34379296
+                            },
+                            {
+                                "article": {
+                                    "title": [{
+                                        "name": "Utility of TMPRSS4 as a Prognostic Biomarker and Potential Therapeutic Target in Patients with Gastric Cancer."
+                                    }],
+                                    "authors": {
+                                        "names": {
+                                            "std": [{
+                                                    "name": {
+                                                        "ml": "Tazawa H"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Surgery, Kure Medical CenterChugoku Cancer Center, 737-0023, 3-1, Kure, Hiroshima, Japan. tazawa.hirofumi.tc@mail.hosp.go.jp."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Suzuki T"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Surgery, Kure Medical CenterChugoku Cancer Center, 737-0023, 3-1, Kure, Hiroshima, Japan.; Department of Gastroenterological and Transplant Surgery, Graduate School of Biochemical and Health Sciences, Hiroshima University, Hiroshima, Japan."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Saito A"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Diagnostic Pathology, Kure Medical CenterChugoku Cancer Center, Kure, Hiroshima, Japan."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Ishikawa A"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Diagnostic Pathology, Kure Medical CenterChugoku Cancer Center, Kure, Hiroshima, Japan."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Komo T"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Surgery, Kure Medical CenterChugoku Cancer Center, 737-0023, 3-1, Kure, Hiroshima, Japan."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Sada H"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Surgery, Kure Medical CenterChugoku Cancer Center, 737-0023, 3-1, Kure, Hiroshima, Japan."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Shimada N"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Surgery, Kure Medical CenterChugoku Cancer Center, 737-0023, 3-1, Kure, Hiroshima, Japan."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Hadano N"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Surgery, Kure Medical CenterChugoku Cancer Center, 737-0023, 3-1, Kure, Hiroshima, Japan."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Onoe T"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Surgery, Kure Medical CenterChugoku Cancer Center, 737-0023, 3-1, Kure, Hiroshima, Japan."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Sudo T"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Surgery, Kure Medical CenterChugoku Cancer Center, 737-0023, 3-1, Kure, Hiroshima, Japan."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Shimizu Y"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Surgery, Kure Medical CenterChugoku Cancer Center, 737-0023, 3-1, Kure, Hiroshima, Japan."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Kuraoka K"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Diagnostic Pathology, Kure Medical CenterChugoku Cancer Center, Kure, Hiroshima, Japan."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Tashiro H"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Surgery, Kure Medical CenterChugoku Cancer Center, 737-0023, 3-1, Kure, Hiroshima, Japan. tashiro.hirotaka.zn@mail.hosp.go.jp.; Department of Gastroenterological and Transplant Surgery, Graduate School of Biochemical and Health Sciences, Hiroshima University, Hiroshima, Japan. tashiro.hirotaka.zn@mail.hosp.go.jp."
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "from": {
+                                        "journal": {
+                                            "title": [{
+                                                    "iso_jta": "J Gastrointest Surg"
+                                                },
+                                                {
+                                                    "ml_jta": "J Gastrointest Surg"
+                                                },
+                                                {
+                                                    "issn": "1873-4626"
+                                                },
+                                                {
+                                                    "name": "Journal of gastrointestinal surgery : official journal of the Society for Surgery of the Alimentary Tract"
+                                                }
+                                            ],
+                                            "imp": {
+                                                "date": {
+                                                    "std": {
+                                                        "year": 2022,
+                                                        "month": 2
+                                                    }
+                                                },
+                                                "volume": "26",
+                                                "issue": "2",
+                                                "pages": "305-313",
+                                                "language": "eng",
+                                                "pubstatus": 4,
+                                                "history": [{
+                                                        "pubstatus": 1,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 5,
+                                                                "day": 28
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 2,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 7,
+                                                                "day": 14
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 8,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 8,
+                                                                "day": 12,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 12,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2022,
+                                                                "month": 3,
+                                                                "day": 15,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 255,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 8,
+                                                                "day": 11,
+                                                                "hour": 12,
+                                                                "minute": 30
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "ids": [{
+                                            "pubmed": 34379296
+                                        },
+                                        {
+                                            "doi": "10.1007/s11605-021-05101-2"
+                                        },
+                                        {
+                                            "pii": "10.1007/s11605-021-05101-2"
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "pmc",
+                                                "tag": {
+                                                    "str": "PMC8821072"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "ELocationID doi",
+                                                "tag": {
+                                                    "str": "10.1007/s11605-021-05101-2"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "comment": "GeneRIF: Utility of TMPRSS4 as a Prognostic Biomarker and Potential Therapeutic Target in Patients with Gastric Cancer."
+                    }
+                },
+                {
+                    "pub": {
+                        "pub": [{
+                                "pmid": 34173918
+                            },
+                            {
+                                "article": {
+                                    "title": [{
+                                        "name": "Transmembrane Protease TMPRSS4 Promotes the Formation and Development of Mismatch Repair Deficient Colon Cancer Liver Metastasis."
+                                    }],
+                                    "authors": {
+                                        "names": {
+                                            "std": [{
+                                                    "name": {
+                                                        "ml": "Yang YS"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of General Surgery, Dalian University Affiliated Xinhua Hospital, Dalian, China."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Wen D"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of General Surgery, Dalian University Affiliated Xinhua Hospital, Dalian, China."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Zhao XF"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of General Surgery, Dalian University Affiliated Xinhua Hospital, Dalian, China. zoserbong@163.com."
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "from": {
+                                        "journal": {
+                                            "title": [{
+                                                    "iso_jta": "Bull Exp Biol Med"
+                                                },
+                                                {
+                                                    "ml_jta": "Bull Exp Biol Med"
+                                                },
+                                                {
+                                                    "issn": "1573-8221"
+                                                },
+                                                {
+                                                    "name": "Bulletin of experimental biology and medicine"
+                                                }
+                                            ],
+                                            "imp": {
+                                                "date": {
+                                                    "std": {
+                                                        "year": 2021,
+                                                        "month": 5
+                                                    }
+                                                },
+                                                "volume": "171",
+                                                "issue": "2",
+                                                "pages": "242-246",
+                                                "language": "eng",
+                                                "retract": {
+                                                    "type": "in-error",
+                                                    "exp": "Bull Exp Biol Med. 2021 Nov;172(1):112. PMID: 34796428"
+                                                },
+                                                "pubstatus": 4,
+                                                "history": [{
+                                                        "pubstatus": 1,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2020,
+                                                                "month": 7,
+                                                                "day": 16
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 8,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 6,
+                                                                "day": 27,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 12,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2022,
+                                                                "month": 1,
+                                                                "day": 27,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 255,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 6,
+                                                                "day": 26,
+                                                                "hour": 12,
+                                                                "minute": 9
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "ids": [{
+                                            "pubmed": 34173918
+                                        },
+                                        {
+                                            "doi": "10.1007/s10517-021-05203-6"
+                                        },
+                                        {
+                                            "pii": "10.1007/s10517-021-05203-6"
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "ELocationID doi",
+                                                "tag": {
+                                                    "str": "10.1007/s10517-021-05203-6"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "comment": "GeneRIF: Transmembrane Protease TMPRSS4 Promotes the Formation and Development of Mismatch Repair Deficient Colon Cancer Liver Metastasis."
+                    }
+                },
+                {
+                    "pub": {
+                        "pub": [{
+                                "pmid": 33649798
+                            },
+                            {
+                                "article": {
+                                    "title": [{
+                                        "name": "COVID19 and SARSCoV2 host cell entry mediators: Expression profiling of TMRSS4 in health and disease."
+                                    }],
+                                    "authors": {
+                                        "names": {
+                                            "std": [{
+                                                    "name": {
+                                                        "ml": "Katopodis P"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Life Sciences, College of Health, Medicine and Life Sciences, Brunel University London, Uxbridge UB8 3PH, UK."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Kerslake R"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Life Sciences, College of Health, Medicine and Life Sciences, Brunel University London, Uxbridge UB8 3PH, UK."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Davies J"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Life Sciences, College of Health, Medicine and Life Sciences, Brunel University London, Uxbridge UB8 3PH, UK."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Randeva HS"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Warwickshire Institute for the Study of Diabetes, Endocrinology and Metabolism (WISDEM), University Hospitals Coventry and Warwickshire NHS Trust, Coventry CV2 2DX, UK."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Chatha K"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Warwick Medical School, University of Warwick, Coventry CV4 7AL, UK."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Hall M"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Life Sciences, College of Health, Medicine and Life Sciences, Brunel University London, Uxbridge UB8 3PH, UK."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Spandidos DA"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Laboratory of Clinical Virology, Medical School, University of Crete, 71409 Heraklion, Greece."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Anikin V"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Life Sciences, College of Health, Medicine and Life Sciences, Brunel University London, Uxbridge UB8 3PH, UK."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Polychronis A"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Mount Vernon Cancer Centre, Middlesex HA6 2RN, UK."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Robertus JL"
+                                                    },
+                                                    "affil": {
+                                                        "str": "National Heart and Lung Institute, Imperial College London, London SW3 6LY, UK."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Kyrou I"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Warwickshire Institute for the Study of Diabetes, Endocrinology and Metabolism (WISDEM), University Hospitals Coventry and Warwickshire NHS Trust, Coventry CV2 2DX, UK."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Karteris E"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Life Sciences, College of Health, Medicine and Life Sciences, Brunel University London, Uxbridge UB8 3PH, UK."
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "from": {
+                                        "journal": {
+                                            "title": [{
+                                                    "iso_jta": "Int J Mol Med"
+                                                },
+                                                {
+                                                    "ml_jta": "Int J Mol Med"
+                                                },
+                                                {
+                                                    "issn": "1791-244X"
+                                                },
+                                                {
+                                                    "name": "International journal of molecular medicine"
+                                                }
+                                            ],
+                                            "imp": {
+                                                "date": {
+                                                    "std": {
+                                                        "year": 2021,
+                                                        "month": 4
+                                                    }
+                                                },
+                                                "volume": "47",
+                                                "issue": "4",
+                                                "language": "eng",
+                                                "pubstatus": 4,
+                                                "history": [{
+                                                        "pubstatus": 1,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 1,
+                                                                "day": 25
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 2,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 2,
+                                                                "day": 22
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 255,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 3,
+                                                                "day": 2,
+                                                                "hour": 6,
+                                                                "minute": 20
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 8,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 3,
+                                                                "day": 3,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 12,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 3,
+                                                                "day": 9,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "ids": [{
+                                            "pubmed": 33649798
+                                        },
+                                        {
+                                            "doi": "10.3892/ijmm.2021.4897"
+                                        },
+                                        {
+                                            "pii": "64"
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "pmc",
+                                                "tag": {
+                                                    "str": "PMC7914073"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "ELocationID doi",
+                                                "tag": {
+                                                    "str": "10.3892/ijmm.2021.4897"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "ELocationID pii",
+                                                "tag": {
+                                                    "str": "64"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "comment": "GeneRIF: COVID19 and SARSCoV2 host cell entry mediators: Expression profiling of TMRSS4 in health and disease."
+                    }
+                },
+                {
+                    "pub": {
+                        "pub": [{
+                                "pmid": 32814053
+                            },
+                            {
+                                "article": {
+                                    "title": [{
+                                        "name": "Interactome Mapping Provides a Network of Neurodegenerative Disease Proteins and Uncovers Widespread Protein Aggregation in Affected Brains."
+                                    }],
+                                    "authors": {
+                                        "names": {
+                                            "std": [{
+                                                    "name": {
+                                                        "ml": "Haenig C"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Neuroproteomics, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Atias N"
+                                                    },
+                                                    "affil": {
+                                                        "str": "School of Computer Science, Tel-Aviv University, Tel-Aviv 69978, Israel."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Taylor AK"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Cell and Molecular Biology, St. Jude Children's Research Hospital, Memphis, TN 38105-3678, USA."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Mazza A"
+                                                    },
+                                                    "affil": {
+                                                        "str": "School of Computer Science, Tel-Aviv University, Tel-Aviv 69978, Israel."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Schaefer MH"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Division of Computational Biology and Data Mining, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany; Computational Cancer Biology, European Institute of Oncology, 20141 Milano, Italy."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Russ J"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Neuroproteomics, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Riechers SP"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Neuroproteomics, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Jain S"
+                                                    },
+                                                    "affil": {
+                                                        "str": "DZNE Tubingen and Eberhard Karls Universitat Tubingen, 72076 Tubingen, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Coughlin M"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Cell and Molecular Biology, St. Jude Children's Research Hospital, Memphis, TN 38105-3678, USA."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Fontaine JF"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Division of Computational Biology and Data Mining, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany; Institute of Organismic and Molecular Evolution, Johannes Gutenberg University of Mainz, 55122 Mainz, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Freibaum BD"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Cell and Molecular Biology, St. Jude Children's Research Hospital, Memphis, TN 38105-3678, USA."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Brusendorf L"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Neuroproteomics, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Zenkner M"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Neuroproteomics, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Porras P"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Neuroproteomics, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany; EMBL-EBI, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Stroedicke M"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Neuroproteomics, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Schnoegl S"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Neuroproteomics, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Arnsburg K"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Leibniz-Forschungsinstitut fur Molekulare Pharmakologie (FMP) im Forschungsverbund Berlin e.V., 13125 Berlin, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Boeddrich A"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Neuroproteomics, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Pigazzini L"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Leibniz-Forschungsinstitut fur Molekulare Pharmakologie (FMP) im Forschungsverbund Berlin e.V., 13125 Berlin, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Heutink P"
+                                                    },
+                                                    "affil": {
+                                                        "str": "DZNE Tubingen and Eberhard Karls Universitat Tubingen, 72076 Tubingen, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Taylor JP"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Cell and Molecular Biology, St. Jude Children's Research Hospital, Memphis, TN 38105-3678, USA; Howard Hughes Medical Institute, Chevy Chase, MD 20815-6789, USA."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Kirstein J"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Leibniz-Forschungsinstitut fur Molekulare Pharmakologie (FMP) im Forschungsverbund Berlin e.V., 13125 Berlin, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Andrade-Navarro MA"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Division of Computational Biology and Data Mining, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany; Institute of Organismic and Molecular Evolution, Johannes Gutenberg University of Mainz, 55122 Mainz, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Sharan R"
+                                                    },
+                                                    "affil": {
+                                                        "str": "School of Computer Science, Tel-Aviv University, Tel-Aviv 69978, Israel. Electronic address: roded@tauex.tau.ac.il."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Wanker EE"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Neuroproteomics, Max Delbruck Center for Molecular Medicine, 13125 Berlin, Germany. Electronic address: erich.w@mdc-berlin.de."
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "from": {
+                                        "journal": {
+                                            "title": [{
+                                                    "iso_jta": "Cell Rep"
+                                                },
+                                                {
+                                                    "ml_jta": "Cell Rep"
+                                                },
+                                                {
+                                                    "issn": "2211-1247"
+                                                },
+                                                {
+                                                    "name": "Cell reports"
+                                                }
+                                            ],
+                                            "imp": {
+                                                "date": {
+                                                    "std": {
+                                                        "year": 2020,
+                                                        "month": 8,
+                                                        "day": 18
+                                                    }
+                                                },
+                                                "volume": "32",
+                                                "issue": "7",
+                                                "pages": "108050",
+                                                "language": "eng",
+                                                "pubstatus": 4,
+                                                "history": [{
+                                                        "pubstatus": 1,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2019,
+                                                                "month": 4,
+                                                                "day": 5
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 5,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2020,
+                                                                "month": 2,
+                                                                "day": 15
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 2,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2020,
+                                                                "month": 7,
+                                                                "day": 28
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 255,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2020,
+                                                                "month": 8,
+                                                                "day": 20,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 8,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2020,
+                                                                "month": 8,
+                                                                "day": 20,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 12,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2021,
+                                                                "month": 5,
+                                                                "day": 29,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "ids": [{
+                                            "pubmed": 32814053
+                                        },
+                                        {
+                                            "pii": "S2211-1247(20)31035-4"
+                                        },
+                                        {
+                                            "doi": "10.1016/j.celrep.2020.108050"
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "ELocationID pii",
+                                                "tag": {
+                                                    "str": "S2211-1247(20)31035-4"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "ELocationID doi",
+                                                "tag": {
+                                                    "str": "10.1016/j.celrep.2020.108050"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "pub": {
+                        "pub": [{
+                                "pmid": 20631123
+                            },
+                            {
+                                "article": {
+                                    "title": [{
+                                        "name": "TMPRSS2 and TMPRSS4 facilitate trypsin-independent spread of influenza virus in Caco-2 cells."
+                                    }],
+                                    "authors": {
+                                        "names": {
+                                            "std": [{
+                                                    "name": {
+                                                        "ml": "Bertram S"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Institute of Virology, Hannover Medical School, 30625 Hannover, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Glowacka I"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Blazejewska P"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Soilleux E"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Allen P"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Danisch S"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Steffen I"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Choi SY"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Park Y"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Schneider H"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Schughart K"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Pohlmann S"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "from": {
+                                        "journal": {
+                                            "title": [{
+                                                    "iso_jta": "J Virol"
+                                                },
+                                                {
+                                                    "ml_jta": "J Virol"
+                                                },
+                                                {
+                                                    "issn": "1098-5514"
+                                                },
+                                                {
+                                                    "name": "Journal of virology"
+                                                }
+                                            ],
+                                            "imp": {
+                                                "date": {
+                                                    "std": {
+                                                        "year": 2010,
+                                                        "month": 10
+                                                    }
+                                                },
+                                                "volume": "84",
+                                                "issue": "19",
+                                                "pages": "10016-10025",
+                                                "language": "eng",
+                                                "pubstatus": 4,
+                                                "history": [{
+                                                        "pubstatus": 255,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2010,
+                                                                "month": 7,
+                                                                "day": 16,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 8,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2010,
+                                                                "month": 7,
+                                                                "day": 16,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 12,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2010,
+                                                                "month": 9,
+                                                                "day": 30,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "ids": [{
+                                            "pubmed": 20631123
+                                        },
+                                        {
+                                            "pii": "JVI.00239-10"
+                                        },
+                                        {
+                                            "doi": "10.1128/JVI.00239-10"
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "pmc",
+                                                "tag": {
+                                                    "str": "PMC2937781"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "ELocationID doi",
+                                                "tag": {
+                                                    "str": "10.1128/JVI.00239-10"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "comment": "GeneRIF: RNAi-mediated knockdown of TMPRSS2 and TMPRSS4 in Caco-2 cells, which released fully infectious virus without trypsin treatment, markedly reduced the spread of influenza virus, demonstrating that these proteases were responsible for activation of HA."
+                    }
+                },
+                {
+                    "pub": {
+                        "pub": [{
+                                "pmid": 20118200
+                            },
+                            {
+                                "article": {
+                                    "title": [{
+                                        "name": "TMPRSS4 induces invasion and epithelial-mesenchymal transition through upregulation of integrin alpha5 and its signaling pathways."
+                                    }],
+                                    "authors": {
+                                        "names": {
+                                            "std": [{
+                                                    "name": {
+                                                        "ml": "Kim S"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Therapeutic Antibody Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejon 305-806, Korea. semikim@kribb.re.kr"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Kang HY"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Nam EH"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Choi MS"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Zhao XF"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Hong CS"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Lee JW"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Lee JH"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Park YK"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "from": {
+                                        "journal": {
+                                            "title": [{
+                                                    "iso_jta": "Carcinogenesis"
+                                                },
+                                                {
+                                                    "ml_jta": "Carcinogenesis"
+                                                },
+                                                {
+                                                    "issn": "1460-2180"
+                                                },
+                                                {
+                                                    "name": "Carcinogenesis"
+                                                }
+                                            ],
+                                            "imp": {
+                                                "date": {
+                                                    "std": {
+                                                        "year": 2010,
+                                                        "month": 4
+                                                    }
+                                                },
+                                                "volume": "31",
+                                                "issue": "4",
+                                                "pages": "597-606",
+                                                "language": "eng",
+                                                "pubstatus": 4,
+                                                "history": [{
+                                                        "pubstatus": 255,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2010,
+                                                                "month": 2,
+                                                                "day": 2,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 8,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2010,
+                                                                "month": 2,
+                                                                "day": 2,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 12,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2010,
+                                                                "month": 4,
+                                                                "day": 17,
+                                                                "hour": 6,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "ids": [{
+                                            "pubmed": 20118200
+                                        },
+                                        {
+                                            "pii": "bgq024"
+                                        },
+                                        {
+                                            "doi": "10.1093/carcin/bgq024"
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "ELocationID doi",
+                                                "tag": {
+                                                    "str": "10.1093/carcin/bgq024"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "comment": "GeneRIF: TMPRSS4 expression was significantly higher in human colorectal cancer tissues from advanced stages than in that of early stage."
+                    }
+                },
+                {
+                    "pub": {
+                        "pub": [{
+                                "pmid": 19158246
+                            },
+                            {
+                                "article": {
+                                    "title": [{
+                                        "name": "Proteolytic activation of the 1918 influenza virus hemagglutinin."
+                                    }],
+                                    "authors": {
+                                        "names": {
+                                            "std": [{
+                                                    "name": {
+                                                        "ml": "Chaipan C"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Nikolaus Fiebiger Center for Molecular Medicine, University Hospital Erlangen, 91054 Erlangen, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Kobasa D"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Bertram S"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Glowacka I"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Steffen I"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Tsegaye TS"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Takeda M"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Bugge TH"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Kim S"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Park Y"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Marzi A"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Pohlmann S"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "from": {
+                                        "journal": {
+                                            "title": [{
+                                                    "iso_jta": "J Virol"
+                                                },
+                                                {
+                                                    "ml_jta": "J Virol"
+                                                },
+                                                {
+                                                    "issn": "1098-5514"
+                                                },
+                                                {
+                                                    "name": "Journal of virology"
+                                                }
+                                            ],
+                                            "imp": {
+                                                "date": {
+                                                    "std": {
+                                                        "year": 2009,
+                                                        "month": 4
+                                                    }
+                                                },
+                                                "volume": "83",
+                                                "issue": "7",
+                                                "pages": "3200-3211",
+                                                "language": "eng",
+                                                "pubstatus": 4,
+                                                "history": [{
+                                                        "pubstatus": 255,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2009,
+                                                                "month": 1,
+                                                                "day": 23,
+                                                                "hour": 9,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 8,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2009,
+                                                                "month": 1,
+                                                                "day": 23,
+                                                                "hour": 9,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 12,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2009,
+                                                                "month": 3,
+                                                                "day": 31,
+                                                                "hour": 9,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "ids": [{
+                                            "pubmed": 19158246
+                                        },
+                                        {
+                                            "pii": "JVI.02205-08"
+                                        },
+                                        {
+                                            "doi": "10.1128/JVI.02205-08"
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "pmc",
+                                                "tag": {
+                                                    "str": "PMC2655587"
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "other": {
+                                                "db": "ELocationID doi",
+                                                "tag": {
+                                                    "str": "10.1128/JVI.02205-08"
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "comment": "GeneRIF: The authors provide evidence that TMPRSS2 and TMPRSS4 activate the 1918 HA by cleavage and therefore may promote viral spread in lung tissue."
+                    }
+                },
+                {
+                    "pub": {
+                        "pub": [{
+                                "pmid": 17968309
+                            },
+                            {
+                                "article": {
+                                    "title": [{
+                                        "name": "TMPRSS4 promotes invasion, migration and metastasis of human tumor cells by facilitating an epithelial-mesenchymal transition."
+                                    }],
+                                    "authors": {
+                                        "names": {
+                                            "std": [{
+                                                    "name": {
+                                                        "ml": "Jung H"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Therapeutic Antibody Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejon, Korea."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Lee KP"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Park SJ"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Park JH"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Jang YS"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Choi SY"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Jung JG"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Jo K"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Park DY"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Yoon JH"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Park JH"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Lim DS"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Hong GR"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Choi C"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Park YK"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Lee JW"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Hong HJ"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Kim S"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Park YW"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "from": {
+                                        "journal": {
+                                            "title": [{
+                                                    "iso_jta": "Oncogene"
+                                                },
+                                                {
+                                                    "ml_jta": "Oncogene"
+                                                },
+                                                {
+                                                    "issn": "1476-5594"
+                                                },
+                                                {
+                                                    "name": "Oncogene"
+                                                }
+                                            ],
+                                            "imp": {
+                                                "date": {
+                                                    "std": {
+                                                        "year": 2008,
+                                                        "month": 4,
+                                                        "day": 17
+                                                    }
+                                                },
+                                                "volume": "27",
+                                                "issue": "18",
+                                                "pages": "2635-2647",
+                                                "language": "eng",
+                                                "pubstatus": 4,
+                                                "history": [{
+                                                        "pubstatus": 8,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2007,
+                                                                "month": 10,
+                                                                "day": 31,
+                                                                "hour": 9,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 12,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2008,
+                                                                "month": 5,
+                                                                "day": 20,
+                                                                "hour": 9,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 255,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2007,
+                                                                "month": 10,
+                                                                "day": 31,
+                                                                "hour": 9,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "ids": [{
+                                            "pubmed": 17968309
+                                        },
+                                        {
+                                            "pii": "1210914"
+                                        },
+                                        {
+                                            "doi": "10.1038/sj.onc.1210914"
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "comment": "GeneRIF: TMPRSS4 plays a role in invasion, metastasis, migration and adhesion in cancer cells. TMPRSS4 may contribute to tumor cell invasion and metastasis by promoting an epithelial-mesenchymal transition(EMT) through the strong SIP1/ZEB2 induction."
+                    }
+                },
+                {
+                    "pub": {
+                        "pub": [{
+                                "pmid": 10825129
+                            },
+                            {
+                                "article": {
+                                    "title": [{
+                                        "name": "A novel transmembrane serine protease (TMPRSS3) overexpressed in pancreatic cancer."
+                                    }],
+                                    "authors": {
+                                        "names": {
+                                            "std": [{
+                                                    "name": {
+                                                        "ml": "Wallrapp C"
+                                                    },
+                                                    "affil": {
+                                                        "str": "Department of Internal Medicine I, University of Ulm, Germany."
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Hahnel S"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Muller-Pillasch F"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Burghardt B"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Iwamura T"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Ruthenburger M"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Lerch MM"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Adler G"
+                                                    }
+                                                },
+                                                {
+                                                    "name": {
+                                                        "ml": "Gress TM"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "from": {
+                                        "journal": {
+                                            "title": [{
+                                                    "iso_jta": "Cancer Res"
+                                                },
+                                                {
+                                                    "ml_jta": "Cancer Res"
+                                                },
+                                                {
+                                                    "issn": "0008-5472"
+                                                },
+                                                {
+                                                    "name": "Cancer research"
+                                                }
+                                            ],
+                                            "imp": {
+                                                "date": {
+                                                    "std": {
+                                                        "year": 2000,
+                                                        "month": 5,
+                                                        "day": 15
+                                                    }
+                                                },
+                                                "volume": "60",
+                                                "issue": "10",
+                                                "pages": "2602-2606",
+                                                "language": "eng",
+                                                "pubstatus": 4,
+                                                "history": [{
+                                                        "pubstatus": 8,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2000,
+                                                                "month": 5,
+                                                                "day": 29,
+                                                                "hour": 9,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 12,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2000,
+                                                                "month": 6,
+                                                                "day": 17,
+                                                                "hour": 9,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "pubstatus": 255,
+                                                        "date": {
+                                                            "std": {
+                                                                "year": 2000,
+                                                                "month": 5,
+                                                                "day": 29,
+                                                                "hour": 9,
+                                                                "minute": 0
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "ids": [{
+                                        "pubmed": 10825129
+                                    }]
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "comment": "~Summary: This gene encodes a member of the serine protease family. Serine proteases are known to be involved in a variety of biological processes, whose malfunction often leads to human diseases and disorders. This gene was identified as a gene overexpressed in pancreatic carcinoma. The encoded protein is membrane bound with a N-terminal anchor sequence and a glycosylated extracellular region containing the serine protease domain. The protein has been found to promote SARS-CoV-2 entry into host cells. [provided by RefSeq, Aug 2021]"
+                },
+                {
+                    "comment": "~Transcript Variant: This variant (6) uses an alternate splice junction at the end of a 5' exon compared to variant 1. The resulting isoform (6) is shorter at the N-terminus compared to isoform 1."
+                },
+                {
+                    "comment": "~Sequence Note: This RefSeq record was created from transcript and genomic sequence data to make the sequence consistent with the reference genome assembly. The genomic coordinates used for the transcript record were based on transcript alignments."
+                },
+                {
+                    "comment": "~Publication Note:  This RefSeq record includes a subset of the publications that are available for this gene. Please see the Gene record to access additional publications."
+                },
+                {
+                    "user": {
+                        "type": {
+                            "str": "RefGeneTracking"
+                        },
+                        "data": [{
+                                "label": {
+                                    "str": "Status"
+                                },
+                                "data": {
+                                    "str": "Reviewed"
+                                }
+                            },
+                            {
+                                "label": {
+                                    "str": "Assembly"
+                                },
+                                "data": {
+                                    "fields": [{
+                                            "label": {
+                                                "id": 0
+                                            },
+                                            "data": {
+                                                "fields": [{
+                                                    "label": {
+                                                        "str": "accession"
+                                                    },
+                                                    "data": {
+                                                        "str": "AP000665.5"
+                                                    }
+                                                }]
+                                            }
+                                        },
+                                        {
+                                            "label": {
+                                                "id": 0
+                                            },
+                                            "data": {
+                                                "fields": [{
+                                                    "label": {
+                                                        "str": "accession"
+                                                    },
+                                                    "data": {
+                                                        "str": "AP002800.4"
+                                                    }
+                                                }]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "user": {
+                        "type": {
+                            "str": "StructuredComment"
+                        },
+                        "data": [{
+                                "label": {
+                                    "str": "StructuredCommentPrefix"
+                                },
+                                "data": {
+                                    "str": "##Evidence-Data-START##"
+                                }
+                            },
+                            {
+                                "label": {
+                                    "str": "Transcript exon combination"
+                                },
+                                "data": {
+                                    "str": "AK304215.1 [ECO:0000332]"
+                                }
+                            },
+                            {
+                                "label": {
+                                    "str": "RNAseq introns"
+                                },
+                                "data": {
+                                    "str": "single sample supports all introns SAMEA1968540, SAMEA2142348 [ECO:0000348]"
+                                }
+                            },
+                            {
+                                "label": {
+                                    "str": "StructuredCommentSuffix"
+                                },
+                                "data": {
+                                    "str": "##Evidence-Data-END##"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "user": {
+                        "type": {
+                            "str": "StructuredComment"
+                        },
+                        "data": [{
+                                "label": {
+                                    "str": "StructuredCommentPrefix"
+                                },
+                                "data": {
+                                    "str": "##RefSeq-Attributes-START##"
+                                }
+                            },
+                            {
+                                "label": {
+                                    "str": "coronavirus related"
+                                },
+                                "data": {
+                                    "str": "involved in SARS-CoV-2 infection"
+                                }
+                            },
+                            {
+                                "label": {
+                                    "str": "StructuredCommentSuffix"
+                                },
+                                "data": {
+                                    "str": "##RefSeq-Attributes-END##"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "update_date": {
+                        "std": {
+                            "year": 2022,
+                            "month": 6,
+                            "day": 10
+                        }
+                    }
+                }
+            ],
+            "seq_set": [{
+                    "seq": {
+                        "id": [{
+                                "other": {
+                                    "accession": "NM_001290094",
+                                    "version": 2
+                                }
+                            },
+                            {
+                                "gi": 1890345344
+                            }
+                        ],
+                        "descr": [{
+                                "title": "Homo sapiens transmembrane serine protease 4 (TMPRSS4), transcript variant 6, mRNA."
+                            },
+                            {
+                                "molinfo": {
+                                    "biomol": 3,
+                                    "completeness": 7
+                                }
+                            },
+                            {
+                                "user": {
+                                    "class": "1.0",
+                                    "type": {
+                                        "str": "AutodefOptions"
+                                    },
+                                    "data": [{
+                                            "label": {
+                                                "str": "SpecifyNuclearProduct"
+                                            },
+                                            "data": {
+                                                "bool": true
+                                            }
+                                        },
+                                        {
+                                            "label": {
+                                                "str": "MaxMods"
+                                            },
+                                            "data": {
+                                                "int": -99
+                                            }
+                                        },
+                                        {
+                                            "label": {
+                                                "str": "FeatureListType"
+                                            },
+                                            "data": {
+                                                "str": "List All Features"
+                                            }
+                                        },
+                                        {
+                                            "label": {
+                                                "str": "MiscFeatRule"
+                                            },
+                                            "data": {
+                                                "str": "NoncodingProductFeat"
+                                            }
+                                        },
+                                        {
+                                            "label": {
+                                                "str": "HIVRule"
+                                            },
+                                            "data": {
+                                                "str": "WantBoth"
+                                            }
+                                        },
+                                        {
+                                            "label": {
+                                                "str": "CustomFeatureClause"
+                                            },
+                                            "data": {
+                                                "str": "transmembrane serine protease 4 (TMPRSS4), transcript variant 6, mRNA"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "create_date": {
+                                    "std": {
+                                        "year": 2014,
+                                        "month": 2,
+                                        "day": 25
+                                    }
+                                }
+                            }
+                        ],
+                        "inst": {
+                            "repr": "raw",
+                            "mol": "rna",
+                            "length": 5520,
+                            "seq_data": {
+                                "ncbi2na": "1D7A0C44888A4927E749A10A39EA6E2A1429795E476A5D75252E7852A1F785E7A525285EEEA8A575E797EAB843749D4A712A216A28D122524E8D784B8D05DE04976B0BD23B4055E64055B3553A217D202BAA35534D32471E25E98B34D3EEBED74D0AE3DE8C0C71F5DE6A497751F4D58A0927BB86889E87B57EAA2862891EED089F5582A5E4BA4B597750A163511E4AE7A1DA512A07AF7797BF6107D1209DD9E2125ECA48EA712490151FD227BA23E95214A37A3BEF80D1200494A27D939A0742EA57B774A757ADD5E47B7E5EEA0897821556EEBABBA28A5DEE8F7E97E92B49352C6101246DEE8A8935E85547AB5D1A4951E7D2804C58EEF41E82B9A929D2101EA49F54D5E9EE94234D34F83D0553B154084384D95D382792F54747F74A44B4A54DEDE57DFE38A274752515477A34FA3AA7F182483A2A08EDE131E7929B4B52B4F84911AE439218E6C52AA0B4588238EEE4A4D5A0AABBA11794AB84BAEA55E3B1437852E93BAEA4DBCBEA9CE9E6AA56245528B31142B74973741E8DC43B7A0A789EC39E7957F92E7A8967D7D795E545EA8D5502D21122422D57EAC455DE54497493F7E89240A9743D73088576495229952282D2495C9DA511FAE7549354A88844951E042B74AACF9C2508281FD511C783A0929EDFB00952347BA9E88A20A02ADE65257B5B7D153550971C8908052FB0CC0391E571EFACE1C5BC5C7BED3EF3C49CE9473CF0227BB04DDE9329C9E839F8C20789EA38F81FD3DFE9FAA20082D7AA090F8B740B2292A80022F2A2148DE78BA4908B89E48F12014AB890BF8B5444A97DD5FE5DFD5D5D5E5EE30D252894A8C17387EA02238BCA4B42AE13D0D2A3510BA7A02039EB5EED707FF597A22574BBA7DF13F000400A349E52BB8A4B5509E2FB8A3B093830B5791D00EB4083C0553A1FFFA4DECE027EAFF78A1EDF9CCBC2D235C8E0331FBD31EC72BDF2804120F5D03940040803201520040100C010053481EE2E8070AE38DEA24311C037EAD885CCE0A7A4BA27017A111E0842A27814A9D713824A8C1E3A4B03BADD03E48EB7A2803F540FC8974A3D50235D40CE27443408D221BE00300045F0BA924C001270FC81540A7D23B4833C887CE30C2433F922CFECEE5211CFB0B9F4D3B1E3D3F0C74480DEE23AB3CF7CD74773A3C00070A440BAF09D7E5E23CC87B0BE06E247E83122F4E7B01C511CCA9750CE30FCC033F83000E0C72F513FC034EFC1EEB40E44C110BE537D14FFCAECCBD2EBBCEC4F4473EE4B4D145353752048074B1534041DD4FD55D754377A41453EE7F4B77B81E8F1DEAC5D3F0B82D392CFADFFEC7EFF3F47D13EEDF42FD153BEC93BB483F7D5FFC87030CF73EFCC604F4AF1F737FE9CFB83CE79EE04EAEC42CDDFE295E7F43DDFAB33D520BA0F9E8D33AC3DCFF83FFE281E333E7F53221E453FC4F54D04BF928BC73F7533555C11F9CFF7BC00E8CDF0C342400C12923F80081E0C49FF203001CC3CC00C001C2E8EAB03043C01143C222040E07A08C0F820B8729F049222230A23C00CE004294A243825C83AC0F704CD483548088834210E222212C50223089E20EF520F8C02BB8351204C4514CBB11931050AE800F20C0D445CEC4F30E01E48114084008075F32492220054851512C510371443C8784129FD512430289C82D2E82CCDD49394023043434A8FB815C401CDFD0830293FD080100121FC5341017DDC020CCC093F1FCA0828038D700A08142090B2432E290FB803B2B0B70111DEDC7DF7DF7DF7DF7DF7CFF8878B7E57B45487A2E4BA4A37E9D1E73751754AF42E3DF797497562C9EA3C4E44E514CD69C3FF83FF2C88EABF47BBE94A5ADD01D585D0B8D5565DA5D502E7A8F129BB7133CF00C10C33F3FEEAF0FFFF8048CF83F3EBE9CE2C800C4D2C0800215ECCC0CC31C9CBC03F85082FD4FBABC3FF02970780CE8B05124E493B03C0AA327A"
+                            },
+                            "hist": {
+                                "assembly": [{
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 13094209
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    0,
+                                                    87722
+                                                ],
+                                                "lens": [
+                                                    228
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 28189498
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    228,
+                                                    17421
+                                                ],
+                                                "lens": [
+                                                    44
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 28189498
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    272,
+                                                    21584
+                                                ],
+                                                "lens": [
+                                                    114
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 28189498
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    386,
+                                                    25700
+                                                ],
+                                                "lens": [
+                                                    153
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 28189498
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    539,
+                                                    27290
+                                                ],
+                                                "lens": [
+                                                    130
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 28189498
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    669,
+                                                    30373
+                                                ],
+                                                "lens": [
+                                                    102
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 28189498
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    771,
+                                                    31455
+                                                ],
+                                                "lens": [
+                                                    41
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 28189498
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    812,
+                                                    34340
+                                                ],
+                                                "lens": [
+                                                    160
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 28189498
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    972,
+                                                    35868
+                                                ],
+                                                "lens": [
+                                                    167
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 28189498
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    1139,
+                                                    37428
+                                                ],
+                                                "lens": [
+                                                    99
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 28189498
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    1238,
+                                                    37737
+                                                ],
+                                                "lens": [
+                                                    143
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 28189498
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    1381,
+                                                    39904
+                                                ],
+                                                "lens": [
+                                                    150
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "type": "partial",
+                                        "dim": 2,
+                                        "segs": {
+                                            "denseg": {
+                                                "dim": 2,
+                                                "numseg": 1,
+                                                "ids": [{
+                                                        "gi": 1890345344
+                                                    },
+                                                    {
+                                                        "gi": 28189498
+                                                    }
+                                                ],
+                                                "starts": [
+                                                    1531,
+                                                    40501
+                                                ],
+                                                "lens": [
+                                                    3989
+                                                ],
+                                                "strands": [
+                                                    "plus",
+                                                    "plus"
+                                                ]
+                                            }
+                                        }
+                                    }
+                                ],
+                                "replaces": {
+                                    "date": {
+                                        "std": {
+                                            "year": 2020,
+                                            "month": 8,
+                                            "day": 14
+                                        }
+                                    },
+                                    "ids": [{
+                                        "gi": 587651928
+                                    }]
+                                }
+                            }
+                        },
+                        "annot": [{
+                            "data": {
+                                "ftable": [{
+                                        "data": {
+                                            "gene": {
+                                                "locus": "TMPRSS4",
+                                                "desc": "transmembrane serine protease 4",
+                                                "syn": [
+                                                    "CAP2",
+                                                    "CAPH2",
+                                                    "MT-SP2",
+                                                    "TMPRSS3"
+                                                ]
+                                            }
+                                        },
+                                        "location": {
+                                            "int": {
+                                                "from": 0,
+                                                "to": 5519,
+                                                "strand": "plus",
+                                                "id": {
+                                                    "gi": 1890345344
+                                                }
+                                            }
+                                        },
+                                        "dbxref": [{
+                                                "db": "GeneID",
+                                                "tag": {
+                                                    "id": 56649
+                                                }
+                                            },
+                                            {
+                                                "db": "HGNC",
+                                                "tag": {
+                                                    "str": "HGNC:11878"
+                                                }
+                                            },
+                                            {
+                                                "db": "MIM",
+                                                "tag": {
+                                                    "id": 606565
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "imp": {
+                                                "key": "misc_feature"
+                                            }
+                                        },
+                                        "comment": "upstream in-frame stop codon",
+                                        "location": {
+                                            "int": {
+                                                "from": 250,
+                                                "to": 252,
+                                                "strand": "plus",
+                                                "id": {
+                                                    "gi": 1890345344
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }]
+                    }
+                },
+                {
+                    "seq": {
+                        "id": [{
+                                "other": {
+                                    "accession": "NP_001277023",
+                                    "version": 2
+                                }
+                            },
+                            {
+                                "gi": 1890345345
+                            }
+                        ],
+                        "descr": [{
+                                "title": "transmembrane protease serine 4 isoform 6 [Homo sapiens]"
+                            },
+                            {
+                                "molinfo": {
+                                    "biomol": 8
+                                }
+                            },
+                            {
+                                "create_date": {
+                                    "std": {
+                                        "year": 2014,
+                                        "month": 2,
+                                        "day": 25
+                                    }
+                                }
+                            }
+                        ],
+                        "inst": {
+                            "repr": "raw",
+                            "mol": "aa",
+                            "length": 412,
+                            "seq_data": {
+                                "ncbieaa": "METFRKVGIPIIIALLSLASIIIVVVLIKVILDKYYFLCGQPLHFIPRKQLCDGELDCPLGEDEEHCVKSFPEGPAVAVRLSKDRSTLQVLDSATGNWFSACFDNFTEALAETACRQMGYSSKPTFRAVEIGPDQDLDVVEITENSQELRMRNSSGPCLSGSLVSLHCLACGKSLKTPRVVGVEEASVDSWPWQVSIQYDKQHVCGGSILDPHWVLTAAHCFRKHTDVFNWKVRAGSDKLGSFPSLAVAKIIIIEFNPMYPKDNDIALMKLQFPLTFSGTVRPICLPFFDEELTPATPLWIIGWGFTKQNGGKMSDILLQASVQVIDSTRCNADDAYQGEVTEKMMCAGIPEGGVDTCQGDSGGPLMYQSDQWHVVGIVSWGYGCGGPSTPGVYTKVSAYLNWIYNVWKAEL"
+                            },
+                            "hist": {
+                                "replaces": {
+                                    "date": {
+                                        "std": {
+                                            "year": 2020,
+                                            "month": 8,
+                                            "day": 14
+                                        }
+                                    },
+                                    "ids": [{
+                                        "gi": 587651929
+                                    }]
+                                }
+                            }
+                        },
+                        "annot": [{
+                            "data": {
+                                "ftable": [{
+                                    "data": {
+                                        "prot": {
+                                            "name": [
+                                                "transmembrane protease serine 4 isoform 6",
+                                                "transmembrane serine protease 3",
+                                                "membrane-type serine protease 2",
+                                                "type II membrane serine protease",
+                                                "channel-activating protease 2",
+                                                "transmembrane protease, serine 4",
+                                                "channel-activating serine protease 2"
+                                            ]
+                                        }
+                                    },
+                                    "location": {
+                                        "int": {
+                                            "from": 0,
+                                            "to": 411,
+                                            "id": {
+                                                "gi": 1890345345
+                                            }
+                                        }
+                                    }
+                                }]
+                            }
+                        }]
+                    }
+                }
+            ],
+            "annot": [{
+                    "data": {
+                        "ftable": [{
+                            "data": {
+                                "cdregion": {
+                                    "code": [{
+                                        "id": 1
+                                    }]
+                                }
+                            },
+                            "comment": "isoform 6 is encoded by transcript variant 6",
+                            "product": {
+                                "whole": {
+                                    "gi": 1890345345
+                                }
+                            },
+                            "location": {
+                                "int": {
+                                    "from": 304,
+                                    "to": 1542,
+                                    "strand": "plus",
+                                    "id": {
+                                        "gi": 1890345344
+                                    }
+                                }
+                            }
+                        }]
+                    }
+                },
+                {
+                    "name": "exons",
+                    "data": {
+                        "ftable": [{
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 0,
+                                        "to": 227,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 228,
+                                        "to": 271,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 272,
+                                        "to": 385,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 386,
+                                        "to": 538,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 539,
+                                        "to": 668,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 669,
+                                        "to": 770,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 771,
+                                        "to": 811,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 812,
+                                        "to": 971,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 972,
+                                        "to": 1138,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 1139,
+                                        "to": 1237,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 1238,
+                                        "to": 1380,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 1381,
+                                        "to": 1530,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "exon"
+                                    }
+                                },
+                                "location": {
+                                    "int": {
+                                        "from": 1531,
+                                        "to": 5519,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "inference",
+                                    "val": "alignment:Splign:2.1.0"
+                                }]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "polyA sites",
+                    "data": {
+                        "ftable": [{
+                                "data": {
+                                    "imp": {
+                                        "key": "polyA_site"
+                                    }
+                                },
+                                "location": {
+                                    "pnt": {
+                                        "point": 3851,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "regulatory"
+                                    }
+                                },
+                                "comment": "hexamer: AATAAT",
+                                "location": {
+                                    "int": {
+                                        "from": 3827,
+                                        "to": 3832,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "regulatory_class",
+                                    "val": "polyA_signal_sequence"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "polyA_site"
+                                    }
+                                },
+                                "comment": "major polyA site",
+                                "location": {
+                                    "pnt": {
+                                        "point": 3472,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "regulatory"
+                                    }
+                                },
+                                "comment": "hexamer: AATGAA",
+                                "location": {
+                                    "int": {
+                                        "from": 3446,
+                                        "to": 3451,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "regulatory_class",
+                                    "val": "polyA_signal_sequence"
+                                }]
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "polyA_site"
+                                    }
+                                },
+                                "comment": "major polyA site",
+                                "location": {
+                                    "pnt": {
+                                        "point": 2086,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "data": {
+                                    "imp": {
+                                        "key": "regulatory"
+                                    }
+                                },
+                                "comment": "hexamer: ATTAAA",
+                                "location": {
+                                    "int": {
+                                        "from": 2059,
+                                        "to": 2064,
+                                        "strand": "plus",
+                                        "id": {
+                                            "gi": 1890345344
+                                        }
+                                    }
+                                },
+                                "qual": [{
+                                    "qual": "regulatory_class",
+                                    "val": "polyA_signal_sequence"
+                                }]
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

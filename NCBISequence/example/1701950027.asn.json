@@ -1,0 +1,2599 @@
+{
+  "Seq_entry": {
+    "seq": {
+      "id": [
+        {
+          "other": {
+            "accession": "NR_033953",
+            "version": 2
+          }
+        },
+        {
+          "gi": 1701950027
+        }
+      ],
+      "descr": [
+        {
+          "title": "Homo sapiens purinergic receptor P2X 7 (P2RX7), transcript variant 7, non-coding RNA."
+        },
+        {
+          "source": {
+            "genome": 1,
+            "org": {
+              "taxname": "Homo sapiens",
+              "common": "human",
+              "db": [
+                {
+                  "db": "taxon",
+                  "tag": {
+                    "id": 9606
+                  }
+                }
+              ],
+              "orgname": {
+                "name": {
+                  "binomial": {
+                    "genus": "Homo",
+                    "species": "sapiens"
+                  }
+                },
+                "attrib": "specified",
+                "lineage": "Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo",
+                "gcode": 1,
+                "mgcode": 2,
+                "div": "PRI"
+              }
+            },
+            "subtype": [
+              {
+                "subtype": 1,
+                "name": "12"
+              },
+              {
+                "subtype": 2,
+                "name": "12q24.31"
+              }
+            ]
+          }
+        },
+        {
+          "molinfo": {
+            "biomol": 13
+          }
+        },
+        {
+          "pub": {
+            "pub": [
+              {
+                "pmid": 35663992
+              },
+              {
+                "article": {
+                  "title": [
+                    {
+                      "name": "Soluble P2X7 Receptor Is Elevated in the Plasma of COVID-19 Patients and Correlates With Disease Severity."
+                    }
+                  ],
+                  "authors": {
+                    "names": {
+                      "std": [
+                        {
+                          "name": {
+                            "ml": "Garcia-Villalba J"
+                          },
+                          "affil": {
+                            "str": "Biomedical Research Institute of Murcia (IMIB-Arrixaca), University Clinical Hospital Virgen Arrixaca, Murcia, Spain."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Hurtado-Navarro L"
+                          },
+                          "affil": {
+                            "str": "Biomedical Research Institute of Murcia (IMIB-Arrixaca), University Clinical Hospital Virgen Arrixaca, Murcia, Spain."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Penin-Franch A"
+                          },
+                          "affil": {
+                            "str": "Biomedical Research Institute of Murcia (IMIB-Arrixaca), University Clinical Hospital Virgen Arrixaca, Murcia, Spain."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Molina-Lopez C"
+                          },
+                          "affil": {
+                            "str": "Biomedical Research Institute of Murcia (IMIB-Arrixaca), University Clinical Hospital Virgen Arrixaca, Murcia, Spain."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Martinez-Alarcon L"
+                          },
+                          "affil": {
+                            "str": "Biomedical Research Institute of Murcia (IMIB-Arrixaca), University Clinical Hospital Virgen Arrixaca, Murcia, Spain."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Angosto-Bazarra D"
+                          },
+                          "affil": {
+                            "str": "Biomedical Research Institute of Murcia (IMIB-Arrixaca), University Clinical Hospital Virgen Arrixaca, Murcia, Spain."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Baroja-Mazo A"
+                          },
+                          "affil": {
+                            "str": "Biomedical Research Institute of Murcia (IMIB-Arrixaca), University Clinical Hospital Virgen Arrixaca, Murcia, Spain."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Pelegrin P"
+                          },
+                          "affil": {
+                            "str": "Biomedical Research Institute of Murcia (IMIB-Arrixaca), University Clinical Hospital Virgen Arrixaca, Murcia, Spain.; Department of Biochemistry and Molecular Biology B and Immunology, Faculty of Medicine, University of Murcia, Murcia, Spain."
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "from": {
+                    "journal": {
+                      "title": [
+                        {
+                          "iso_jta": "Front Immunol"
+                        },
+                        {
+                          "ml_jta": "Front Immunol"
+                        },
+                        {
+                          "issn": "1664-3224"
+                        },
+                        {
+                          "name": "Frontiers in immunology"
+                        }
+                      ],
+                      "imp": {
+                        "date": {
+                          "std": {
+                            "year": 2022,
+                            "month": 5,
+                            "day": 18
+                          }
+                        },
+                        "volume": "13",
+                        "pages": "894470",
+                        "language": "eng",
+                        "pubstatus": 3,
+                        "history": [
+                          {
+                            "pubstatus": 1,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 3,
+                                "day": 11
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 2,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 4,
+                                "day": 19
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 255,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 6,
+                                "day": 6,
+                                "hour": 14,
+                                "minute": 8
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 8,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 6,
+                                "day": 7,
+                                "hour": 6,
+                                "minute": 0
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 12,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 6,
+                                "day": 9,
+                                "hour": 6,
+                                "minute": 0
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "ids": [
+                    {
+                      "pubmed": 35663992
+                    },
+                    {
+                      "doi": "10.3389/fimmu.2022.894470"
+                    },
+                    {
+                      "other": {
+                        "db": "pmc",
+                        "tag": {
+                          "str": "PMC9161710"
+                        }
+                      }
+                    },
+                    {
+                      "other": {
+                        "db": "ELocationID doi",
+                        "tag": {
+                          "str": "10.3389/fimmu.2022.894470"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "comment": "GeneRIF: Soluble P2X7 Receptor Is Elevated in the Plasma of COVID-19 Patients and Correlates With Disease Severity."
+          }
+        },
+        {
+          "pub": {
+            "pub": [
+              {
+                "pmid": 35510301
+              },
+              {
+                "article": {
+                  "title": [
+                    {
+                      "name": "Extracellular adenosine triphosphate induces IDO and IFNgamma expression of human periodontal ligament cells through P2 X7 receptor signaling."
+                    }
+                  ],
+                  "authors": {
+                    "names": {
+                      "std": [
+                        {
+                          "name": {
+                            "ml": "Kyawsoewin M"
+                          },
+                          "affil": {
+                            "str": "Center of Excellence for Regenerative Dentistry, Chulalongkorn University, Bangkok, Thailand.; Department of Oral Biological Science, University of Dental Medicine, Yangon, Myanmar."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Limraksasin P"
+                          },
+                          "affil": {
+                            "str": "Center of Excellence for Regenerative Dentistry, Chulalongkorn University, Bangkok, Thailand.; Department of Anatomy, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand.; Division of Molecular and Regenerative Prosthodontics, Tohoku University Graduate School of Dentistry, Sendai, Japan."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Ngaokrajang U"
+                          },
+                          "affil": {
+                            "str": "Center of Excellence for Regenerative Dentistry, Chulalongkorn University, Bangkok, Thailand."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Pavasant P"
+                          },
+                          "affil": {
+                            "str": "Center of Excellence for Regenerative Dentistry, Chulalongkorn University, Bangkok, Thailand.; Department of Anatomy, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Osathanon T"
+                          },
+                          "affil": {
+                            "str": "Department of Anatomy, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand.; Dental Stem Cell Biology Research Unit, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand."
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "from": {
+                    "journal": {
+                      "title": [
+                        {
+                          "iso_jta": "J Periodontal Res"
+                        },
+                        {
+                          "ml_jta": "J Periodontal Res"
+                        },
+                        {
+                          "issn": "1600-0765"
+                        },
+                        {
+                          "name": "Journal of periodontal research"
+                        }
+                      ],
+                      "imp": {
+                        "date": {
+                          "std": {
+                            "year": 2022,
+                            "month": 8
+                          }
+                        },
+                        "volume": "57",
+                        "issue": "4",
+                        "pages": "742-753",
+                        "language": "eng",
+                        "pubstatus": 4,
+                        "history": [
+                          {
+                            "pubstatus": 5,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 3,
+                                "day": 31
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 1,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 2,
+                                "day": 8
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 2,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 4,
+                                "day": 19
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 8,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 5,
+                                "day": 6,
+                                "hour": 6,
+                                "minute": 0
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 12,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 7,
+                                "day": 23,
+                                "hour": 6,
+                                "minute": 0
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 255,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 5,
+                                "day": 5,
+                                "hour": 2,
+                                "minute": 42
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "ids": [
+                    {
+                      "pubmed": 35510301
+                    },
+                    {
+                      "doi": "10.1111/jre.12997"
+                    },
+                    {
+                      "other": {
+                        "db": "ELocationID doi",
+                        "tag": {
+                          "str": "10.1111/jre.12997"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "comment": "GeneRIF: Extracellular adenosine triphosphate induces IDO and IFNgamma expression of human periodontal ligament cells through P2 X7 receptor signaling."
+          }
+        },
+        {
+          "pub": {
+            "pub": [
+              {
+                "pmid": 35504351
+              },
+              {
+                "article": {
+                  "title": [
+                    {
+                      "name": "The long beta2,3-sheets encoded by redundant sequences play an integral role in the channel function of P2X7 receptors."
+                    }
+                  ],
+                  "authors": {
+                    "names": {
+                      "std": [
+                        {
+                          "name": {
+                            "ml": "Ma XF"
+                          },
+                          "affil": {
+                            "str": "College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, China; School of Basic Medicine and Clinical Pharmacy and State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Wang TT"
+                          },
+                          "affil": {
+                            "str": "School of Basic Medicine and Clinical Pharmacy and State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Wang WH"
+                          },
+                          "affil": {
+                            "str": "School of Basic Medicine and Clinical Pharmacy and State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Guan L"
+                          },
+                          "affil": {
+                            "str": "School of Basic Medicine and Clinical Pharmacy and State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Guo CR"
+                          },
+                          "affil": {
+                            "str": "School of Basic Medicine and Clinical Pharmacy and State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Li XH"
+                          },
+                          "affil": {
+                            "str": "School of Basic Medicine and Clinical Pharmacy and State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Lei YT"
+                          },
+                          "affil": {
+                            "str": "School of Basic Medicine and Clinical Pharmacy and State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Fan YZ"
+                          },
+                          "affil": {
+                            "str": "Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Yang XN"
+                          },
+                          "affil": {
+                            "str": "School of Basic Medicine and Clinical Pharmacy and State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Hattori M"
+                          },
+                          "affil": {
+                            "str": "State Key Laboratory of Genetic Engineering, Collaborative Innovation Center of Genetics and Development, Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Neurobiology, School of Life Sciences, Fudan University, Shanghai, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Nureki O"
+                          },
+                          "affil": {
+                            "str": "Department of Biological Sciences, Graduate School of Science, The University of Tokyo, Bunkyo-ku, Tokyo, Japan."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Zhu MX"
+                          },
+                          "affil": {
+                            "str": "Department of Integrative Biology and Pharmacology, McGovern Medical School, The University of Texas Health Science Center at Houston, Houston, Texas, USA."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Yu Y"
+                          },
+                          "affil": {
+                            "str": "School of Basic Medicine and Clinical Pharmacy and State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, China. Electronic address: yuye@cpu.edu.cn."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Tian Y"
+                          },
+                          "affil": {
+                            "str": "College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha, China. Electronic address: tianyun79616@163.com."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Wang J"
+                          },
+                          "affil": {
+                            "str": "School of Basic Medicine and Clinical Pharmacy and State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, China. Electronic address: wangjin@cpu.edu.cn."
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "from": {
+                    "journal": {
+                      "title": [
+                        {
+                          "iso_jta": "J Biol Chem"
+                        },
+                        {
+                          "ml_jta": "J Biol Chem"
+                        },
+                        {
+                          "issn": "1083-351X"
+                        },
+                        {
+                          "name": "The Journal of biological chemistry"
+                        }
+                      ],
+                      "imp": {
+                        "date": {
+                          "std": {
+                            "year": 2022,
+                            "month": 6
+                          }
+                        },
+                        "volume": "298",
+                        "issue": "6",
+                        "pages": "102002",
+                        "language": "eng",
+                        "pubstatus": 4,
+                        "history": [
+                          {
+                            "pubstatus": 1,
+                            "date": {
+                              "std": {
+                                "year": 2021,
+                                "month": 9,
+                                "day": 10
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 5,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 4,
+                                "day": 23
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 2,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 4,
+                                "day": 27
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 8,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 5,
+                                "day": 4,
+                                "hour": 6,
+                                "minute": 0
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 12,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 6,
+                                "day": 30,
+                                "hour": 6,
+                                "minute": 0
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 255,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 5,
+                                "day": 3,
+                                "hour": 19,
+                                "minute": 24
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "ids": [
+                    {
+                      "pubmed": 35504351
+                    },
+                    {
+                      "pii": "S0021-9258(22)00442-2"
+                    },
+                    {
+                      "doi": "10.1016/j.jbc.2022.102002"
+                    },
+                    {
+                      "other": {
+                        "db": "pmc",
+                        "tag": {
+                          "str": "PMC9163701"
+                        }
+                      }
+                    },
+                    {
+                      "other": {
+                        "db": "ELocationID pii",
+                        "tag": {
+                          "str": "S0021-9258(22)00442-2"
+                        }
+                      }
+                    },
+                    {
+                      "other": {
+                        "db": "ELocationID doi",
+                        "tag": {
+                          "str": "10.1016/j.jbc.2022.102002"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "comment": "GeneRIF: The long beta2,3-sheets encoded by redundant sequences play an integral role in the channel function of P2X7 receptors."
+          }
+        },
+        {
+          "pub": {
+            "pub": [
+              {
+                "pmid": 35126784
+              },
+              {
+                "article": {
+                  "title": [
+                    {
+                      "name": "The Improvement of Sepsis-Associated Encephalopathy by P2X7R Inhibitor through Inhibiting the Omi/HtrA2 Apoptotic Signaling Pathway."
+                    }
+                  ],
+                  "authors": {
+                    "names": {
+                      "std": [
+                        {
+                          "name": {
+                            "ml": "Wang K"
+                          },
+                          "affil": {
+                            "str": "Shandong Provincial Medicine and Health Key Laboratory of Clinical Anesthesia, School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Sun M"
+                          },
+                          "affil": {
+                            "str": "Shandong Provincial Medicine and Health Key Laboratory of Clinical Anesthesia, School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Juan Z"
+                          },
+                          "affil": {
+                            "str": "Shandong Provincial Medicine and Health Key Laboratory of Clinical Anesthesia, School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Zhang J"
+                          },
+                          "affil": {
+                            "str": "Department of Anesthesiology, Suzhou Benkey Hospital, 215009 Suzhou, Jiangsu, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Sun Y"
+                          },
+                          "affil": {
+                            "str": "Shandong Provincial Medicine and Health Key Laboratory of Clinical Anesthesia, School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, China.; The Affiliated Hospital of Weifang Medical University, 261021 Weifang, Shandong, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Wang G"
+                          },
+                          "affil": {
+                            "str": "Shandong Provincial Medicine and Health Key Laboratory of Clinical Anesthesia, School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Wang C"
+                          },
+                          "affil": {
+                            "str": "Shandong Provincial Medicine and Health Key Laboratory of Clinical Anesthesia, School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Li Y"
+                          },
+                          "affil": {
+                            "str": "Shandong Provincial Medicine and Health Key Laboratory of Clinical Anesthesia, School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Kong W"
+                          },
+                          "affil": {
+                            "str": "Shandong Provincial Medicine and Health Key Laboratory of Clinical Anesthesia, School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Fan L"
+                          },
+                          "affil": {
+                            "str": "Shandong Provincial Medicine and Health Key Laboratory of Clinical Anesthesia, School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Zhang Y"
+                          },
+                          "affil": {
+                            "str": "Shandong Provincial Medicine and Health Key Laboratory of Clinical Anesthesia, School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Zhao H"
+                          },
+                          "affil": {
+                            "str": "Shandong Provincial Medicine and Health Key Laboratory of Clinical Anesthesia, School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Zhao X"
+                          },
+                          "affil": {
+                            "str": "Shandong Provincial Medicine and Health Key Laboratory of Clinical Anesthesia, School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, China.; The Affiliated Hospital of Weifang Medical University, 261021 Weifang, Shandong, China."
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "from": {
+                    "journal": {
+                      "title": [
+                        {
+                          "iso_jta": "Behav Neurol"
+                        },
+                        {
+                          "ml_jta": "Behav Neurol"
+                        },
+                        {
+                          "issn": "1875-8584"
+                        },
+                        {
+                          "name": "Behavioural neurology"
+                        }
+                      ],
+                      "imp": {
+                        "date": {
+                          "std": {
+                            "year": 2022,
+                            "month": 1,
+                            "day": 27
+                          }
+                        },
+                        "volume": "2022",
+                        "pages": "3777351",
+                        "language": "eng",
+                        "pubstatus": 3,
+                        "history": [
+                          {
+                            "pubstatus": 1,
+                            "date": {
+                              "std": {
+                                "year": 2021,
+                                "month": 7,
+                                "day": 27
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 5,
+                            "date": {
+                              "std": {
+                                "year": 2021,
+                                "month": 12,
+                                "day": 14
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 2,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 1,
+                                "day": 5
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 255,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 2,
+                                "day": 7,
+                                "hour": 5,
+                                "minute": 31
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 8,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 2,
+                                "day": 8,
+                                "hour": 6,
+                                "minute": 0
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 12,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 2,
+                                "day": 9,
+                                "hour": 6,
+                                "minute": 0
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "ids": [
+                    {
+                      "pubmed": 35126784
+                    },
+                    {
+                      "doi": "10.1155/2022/3777351"
+                    },
+                    {
+                      "other": {
+                        "db": "pmc",
+                        "tag": {
+                          "str": "PMC8813303"
+                        }
+                      }
+                    },
+                    {
+                      "other": {
+                        "db": "ELocationID doi",
+                        "tag": {
+                          "str": "10.1155/2022/3777351"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "comment": "GeneRIF: The Improvement of Sepsis-Associated Encephalopathy by P2X7R Inhibitor through Inhibiting the Omi/HtrA2 Apoptotic Signaling Pathway."
+          }
+        },
+        {
+          "pub": {
+            "pub": [
+              {
+                "pmid": 35008658
+              },
+              {
+                "article": {
+                  "title": [
+                    {
+                      "name": "Inherent P2X7 Receptors Regulate Macrophage Functions during Inflammatory Diseases."
+                    }
+                  ],
+                  "authors": {
+                    "names": {
+                      "std": [
+                        {
+                          "name": {
+                            "ml": "Ren W"
+                          },
+                          "affil": {
+                            "str": "International Collaborative Centre on Big Science Plan for Purinergic Signalling, Chengdu University of TCM, Chengdu 610075, China.; School of Acupunct3ure and Tuina, Chengdu University of TCM, Chengdu 610075, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Rubini P"
+                          },
+                          "affil": {
+                            "str": "International Collaborative Centre on Big Science Plan for Purinergic Signalling, Chengdu University of TCM, Chengdu 610075, China.; School of Acupunct3ure and Tuina, Chengdu University of TCM, Chengdu 610075, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Tang Y"
+                          },
+                          "affil": {
+                            "str": "International Collaborative Centre on Big Science Plan for Purinergic Signalling, Chengdu University of TCM, Chengdu 610075, China.; School of Acupunct3ure and Tuina, Chengdu University of TCM, Chengdu 610075, China."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Engel T"
+                          },
+                          "affil": {
+                            "str": "Department of Physiology and Medical Physics, Royal College of Surgeons in Ireland, University of Medicine and Health Sciences, D02 YN77 Dublin, Ireland.; FutureNeuro, SFI Research Centre for Chronic and Rare Neurological Diseases, RCSI University of Medicine and Health Sciences, D02 YN77 Dublin, Ireland."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Illes P"
+                          },
+                          "affil": {
+                            "str": "International Collaborative Centre on Big Science Plan for Purinergic Signalling, Chengdu University of TCM, Chengdu 610075, China.; School of Acupunct3ure and Tuina, Chengdu University of TCM, Chengdu 610075, China.; Rudolf Boehm Institute for Pharmacology and Toxicology, University of Leipzig, 04107 Leipzig, Germany."
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "from": {
+                    "journal": {
+                      "title": [
+                        {
+                          "iso_jta": "Int J Mol Sci"
+                        },
+                        {
+                          "ml_jta": "Int J Mol Sci"
+                        },
+                        {
+                          "issn": "1422-0067"
+                        },
+                        {
+                          "name": "International journal of molecular sciences"
+                        }
+                      ],
+                      "imp": {
+                        "date": {
+                          "std": {
+                            "year": 2021,
+                            "month": 12,
+                            "day": 26
+                          }
+                        },
+                        "volume": "23",
+                        "issue": "1",
+                        "language": "eng",
+                        "pubstatus": 3,
+                        "history": [
+                          {
+                            "pubstatus": 1,
+                            "date": {
+                              "std": {
+                                "year": 2021,
+                                "month": 11,
+                                "day": 24
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 5,
+                            "date": {
+                              "std": {
+                                "year": 2021,
+                                "month": 12,
+                                "day": 21
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 2,
+                            "date": {
+                              "std": {
+                                "year": 2021,
+                                "month": 12,
+                                "day": 21
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 255,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 1,
+                                "day": 11,
+                                "hour": 1,
+                                "minute": 3
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 8,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 1,
+                                "day": 12,
+                                "hour": 6,
+                                "minute": 0
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 12,
+                            "date": {
+                              "std": {
+                                "year": 2022,
+                                "month": 1,
+                                "day": 27,
+                                "hour": 6,
+                                "minute": 0
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "ids": [
+                    {
+                      "pubmed": 35008658
+                    },
+                    {
+                      "pii": "ijms23010232"
+                    },
+                    {
+                      "doi": "10.3390/ijms23010232"
+                    },
+                    {
+                      "other": {
+                        "db": "pmc",
+                        "tag": {
+                          "str": "PMC8745241"
+                        }
+                      }
+                    },
+                    {
+                      "other": {
+                        "db": "ELocationID pii",
+                        "tag": {
+                          "str": "232"
+                        }
+                      }
+                    },
+                    {
+                      "other": {
+                        "db": "ELocationID doi",
+                        "tag": {
+                          "str": "10.3390/ijms23010232"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "comment": "GeneRIF: Inherent P2X7 Receptors Regulate Macrophage Functions during Inflammatory Diseases.~Review article"
+          }
+        },
+        {
+          "pub": {
+            "pub": [
+              {
+                "pmid": 11707406
+              },
+              {
+                "article": {
+                  "title": [
+                    {
+                      "name": "Proteomic and functional evidence for a P2X7 receptor signalling complex."
+                    }
+                  ],
+                  "authors": {
+                    "names": {
+                      "std": [
+                        {
+                          "name": {
+                            "ml": "Kim M"
+                          },
+                          "affil": {
+                            "str": "Institute of Molecular Physiology, University of Sheffield, Alfred Denny Building, Western Bank, Sheffield S10 2TN, UK."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Jiang LH"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Wilson HL"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "North RA"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Surprenant A"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "from": {
+                    "journal": {
+                      "title": [
+                        {
+                          "iso_jta": "EMBO J"
+                        },
+                        {
+                          "ml_jta": "EMBO J"
+                        },
+                        {
+                          "issn": "0261-4189"
+                        },
+                        {
+                          "name": "The EMBO journal"
+                        }
+                      ],
+                      "imp": {
+                        "date": {
+                          "std": {
+                            "year": 2001,
+                            "month": 11,
+                            "day": 15
+                          }
+                        },
+                        "volume": "20",
+                        "issue": "22",
+                        "pages": "6347-6358",
+                        "language": "eng",
+                        "pubstatus": 4,
+                        "history": [
+                          {
+                            "pubstatus": 8,
+                            "date": {
+                              "std": {
+                                "year": 2001,
+                                "month": 11,
+                                "day": 15,
+                                "hour": 10,
+                                "minute": 0
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 12,
+                            "date": {
+                              "std": {
+                                "year": 2002,
+                                "month": 1,
+                                "day": 18,
+                                "hour": 10,
+                                "minute": 1
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 255,
+                            "date": {
+                              "std": {
+                                "year": 2001,
+                                "month": 11,
+                                "day": 15,
+                                "hour": 10,
+                                "minute": 0
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "ids": [
+                    {
+                      "pubmed": 11707406
+                    },
+                    {
+                      "doi": "10.1093/emboj/20.22.6347"
+                    },
+                    {
+                      "other": {
+                        "db": "pmc",
+                        "tag": {
+                          "str": "PMC125721"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "pub": {
+            "pub": [
+              {
+                "pmid": 11341329
+              },
+              {
+                "article": {
+                  "title": [
+                    {
+                      "name": "Expression of a P2X7 receptor by a subpopulation of human osteoblasts."
+                    }
+                  ],
+                  "authors": {
+                    "names": {
+                      "std": [
+                        {
+                          "name": {
+                            "ml": "Gartland A"
+                          },
+                          "affil": {
+                            "str": "Department of Human Anatomy and Cell Biology, The University of Liverpool, United Kingdom."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Hipskind RA"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Gallagher JA"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Bowler WB"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "from": {
+                    "journal": {
+                      "title": [
+                        {
+                          "iso_jta": "J Bone Miner Res"
+                        },
+                        {
+                          "ml_jta": "J Bone Miner Res"
+                        },
+                        {
+                          "issn": "0884-0431"
+                        },
+                        {
+                          "name": "Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research"
+                        }
+                      ],
+                      "imp": {
+                        "date": {
+                          "std": {
+                            "year": 2001,
+                            "month": 5
+                          }
+                        },
+                        "volume": "16",
+                        "issue": "5",
+                        "pages": "846-856",
+                        "language": "eng",
+                        "pubstatus": 4,
+                        "history": [
+                          {
+                            "pubstatus": 8,
+                            "date": {
+                              "std": {
+                                "year": 2001,
+                                "month": 5,
+                                "day": 9,
+                                "hour": 10,
+                                "minute": 0
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 12,
+                            "date": {
+                              "std": {
+                                "year": 2002,
+                                "month": 1,
+                                "day": 5,
+                                "hour": 10,
+                                "minute": 1
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 255,
+                            "date": {
+                              "std": {
+                                "year": 2001,
+                                "month": 5,
+                                "day": 9,
+                                "hour": 10,
+                                "minute": 0
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "ids": [
+                    {
+                      "pubmed": 11341329
+                    },
+                    {
+                      "doi": "10.1359/jbmr.2001.16.5.846"
+                    }
+                  ]
+                }
+              }
+            ],
+            "comment": "GeneRIF: First description of the expression of functional P2X7 receptors in a subpopulation of osteoblasts, activation of which can result in ATP-mediated apoptosis."
+          }
+        },
+        {
+          "pub": {
+            "pub": [
+              {
+                "pmid": 11150303
+              },
+              {
+                "article": {
+                  "title": [
+                    {
+                      "name": "A Glu-496 to Ala polymorphism leads to loss of function of the human P2X7 receptor."
+                    }
+                  ],
+                  "authors": {
+                    "names": {
+                      "std": [
+                        {
+                          "name": {
+                            "ml": "Gu BJ"
+                          },
+                          "affil": {
+                            "str": "Departments of Medicine and Anatomy and Histology, University of Sydney, Sydney, New South Wales 2006."
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Zhang W"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Worthington RA"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Sluyter R"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Dao-Ung P"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Petrou S"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Barden JA"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Wiley JS"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "from": {
+                    "journal": {
+                      "title": [
+                        {
+                          "iso_jta": "J Biol Chem"
+                        },
+                        {
+                          "ml_jta": "J Biol Chem"
+                        },
+                        {
+                          "issn": "0021-9258"
+                        },
+                        {
+                          "name": "The Journal of biological chemistry"
+                        }
+                      ],
+                      "imp": {
+                        "date": {
+                          "std": {
+                            "year": 2001,
+                            "month": 4,
+                            "day": 6
+                          }
+                        },
+                        "volume": "276",
+                        "issue": "14",
+                        "pages": "11135-11142",
+                        "language": "eng",
+                        "pubstatus": 4,
+                        "history": [
+                          {
+                            "pubstatus": 8,
+                            "date": {
+                              "std": {
+                                "year": 2001,
+                                "month": 1,
+                                "day": 21,
+                                "hour": 19,
+                                "minute": 15
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 12,
+                            "date": {
+                              "std": {
+                                "year": 2001,
+                                "month": 6,
+                                "day": 2,
+                                "hour": 10,
+                                "minute": 1
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 255,
+                            "date": {
+                              "std": {
+                                "year": 2001,
+                                "month": 1,
+                                "day": 21,
+                                "hour": 19,
+                                "minute": 15
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "ids": [
+                    {
+                      "pubmed": 11150303
+                    },
+                    {
+                      "doi": "10.1074/jbc.M010353200"
+                    },
+                    {
+                      "pii": "S0021-9258(19)34556-9"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "pub": {
+            "pub": [
+              {
+                "pmid": 9826911
+              },
+              {
+                "article": {
+                  "title": [
+                    {
+                      "name": "Gene structure and chromosomal localization of the human P2X7 receptor."
+                    }
+                  ],
+                  "authors": {
+                    "names": {
+                      "std": [
+                        {
+                          "name": {
+                            "ml": "Buell GN"
+                          },
+                          "affil": {
+                            "str": "Geneva Biomedical Research Institute, Switzerland. GB15879@GGR.CO.UK"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Talabot F"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Gos A"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Lorenz J"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Lai E"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Morris MA"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Antonarakis SE"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "from": {
+                    "journal": {
+                      "title": [
+                        {
+                          "iso_jta": "Recept Channels"
+                        },
+                        {
+                          "ml_jta": "Recept Channels"
+                        },
+                        {
+                          "issn": "1060-6823"
+                        },
+                        {
+                          "name": "Receptors & channels"
+                        }
+                      ],
+                      "imp": {
+                        "date": {
+                          "std": {
+                            "year": 1998
+                          }
+                        },
+                        "volume": "5",
+                        "issue": "6",
+                        "pages": "347-354",
+                        "language": "eng",
+                        "pubstatus": 4,
+                        "history": [
+                          {
+                            "pubstatus": 8,
+                            "date": {
+                              "std": {
+                                "year": 1998,
+                                "month": 11,
+                                "day": 25
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 12,
+                            "date": {
+                              "std": {
+                                "year": 1998,
+                                "month": 11,
+                                "day": 25,
+                                "hour": 0,
+                                "minute": 1
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 255,
+                            "date": {
+                              "std": {
+                                "year": 1998,
+                                "month": 11,
+                                "day": 25,
+                                "hour": 0,
+                                "minute": 0
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "ids": [
+                    {
+                      "pubmed": 9826911
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "pub": {
+            "pub": [
+              {
+                "pmid": 9038151
+              },
+              {
+                "article": {
+                  "title": [
+                    {
+                      "name": "The permeabilizing ATP receptor, P2X7. Cloning and expression of a human cDNA."
+                    }
+                  ],
+                  "authors": {
+                    "names": {
+                      "std": [
+                        {
+                          "name": {
+                            "ml": "Rassendren F"
+                          },
+                          "affil": {
+                            "str": "Geneva Biomedical Research Institute, GlaxoWellcome Research and Development, Plan-les-Ouates, 1228 Geneva, Switzerland. FAR14949@ggr.co.uk"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Buell GN"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Virginio C"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Collo G"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "North RA"
+                          }
+                        },
+                        {
+                          "name": {
+                            "ml": "Surprenant A"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "from": {
+                    "journal": {
+                      "title": [
+                        {
+                          "iso_jta": "J Biol Chem"
+                        },
+                        {
+                          "ml_jta": "J Biol Chem"
+                        },
+                        {
+                          "issn": "0021-9258"
+                        },
+                        {
+                          "name": "The Journal of biological chemistry"
+                        }
+                      ],
+                      "imp": {
+                        "date": {
+                          "std": {
+                            "year": 1997,
+                            "month": 2,
+                            "day": 28
+                          }
+                        },
+                        "volume": "272",
+                        "issue": "9",
+                        "pages": "5482-5486",
+                        "language": "eng",
+                        "pubstatus": 4,
+                        "history": [
+                          {
+                            "pubstatus": 8,
+                            "date": {
+                              "std": {
+                                "year": 1997,
+                                "month": 2,
+                                "day": 28
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 12,
+                            "date": {
+                              "std": {
+                                "year": 1997,
+                                "month": 2,
+                                "day": 28,
+                                "hour": 0,
+                                "minute": 1
+                              }
+                            }
+                          },
+                          {
+                            "pubstatus": 255,
+                            "date": {
+                              "std": {
+                                "year": 1997,
+                                "month": 2,
+                                "day": 28,
+                                "hour": 0,
+                                "minute": 0
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "ids": [
+                    {
+                      "pubmed": 9038151
+                    },
+                    {
+                      "doi": "10.1074/jbc.272.9.5482"
+                    },
+                    {
+                      "pii": "S0021-9258(18)41232-X"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "comment": "~Summary: The product of this gene belongs to the family of purinoceptors for ATP. This receptor functions as a ligand-gated ion channel and is responsible for ATP-dependent lysis of macrophages through the formation of membrane pores permeable to large molecules. Activation of this nuclear receptor by ATP in the cytoplasm may be a mechanism by which cellular activity can be coupled to changes in gene expression. Multiple alternatively spliced variants have been identified, most of which fit nonsense-mediated decay (NMD) criteria. [provided by RefSeq, Jul 2010]"
+        },
+        {
+          "comment": "~Transcript Variant: This variant (7) lacks an exon in the 5' coding region, which results in frame-shift and an internal stop codon, and also has an additional segment in the 3' coding region, as compared to variant 1. The transcript is a nonsense-mediated mRNA decay candidate, so most likely does not make a protein."
+        },
+        {
+          "comment": "~Sequence Note: This RefSeq record was created from transcript and genomic sequence data to make the sequence consistent with the reference genome assembly. The genomic coordinates used for the transcript record were based on transcript alignments."
+        },
+        {
+          "comment": "~Publication Note:  This RefSeq record includes a subset of the publications that are available for this gene. Please see the Gene record to access additional publications."
+        },
+        {
+          "user": {
+            "type": {
+              "str": "RefGeneTracking"
+            },
+            "data": [
+              {
+                "label": {
+                  "str": "Status"
+                },
+                "data": {
+                  "str": "Reviewed"
+                }
+              },
+              {
+                "label": {
+                  "str": "Assembly"
+                },
+                "data": {
+                  "fields": [
+                    {
+                      "label": {
+                        "id": 0
+                      },
+                      "data": {
+                        "fields": [
+                          {
+                            "label": {
+                              "str": "accession"
+                            },
+                            "data": {
+                              "str": "DA302256.1"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "label": {
+                        "id": 0
+                      },
+                      "data": {
+                        "fields": [
+                          {
+                            "label": {
+                              "str": "accession"
+                            },
+                            "data": {
+                              "str": "AK090866.1"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "label": {
+                        "id": 0
+                      },
+                      "data": {
+                        "fields": [
+                          {
+                            "label": {
+                              "str": "accession"
+                            },
+                            "data": {
+                              "str": "BC011913.2"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "label": {
+                        "id": 0
+                      },
+                      "data": {
+                        "fields": [
+                          {
+                            "label": {
+                              "str": "accession"
+                            },
+                            "data": {
+                              "str": "AC069209.38"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "user": {
+            "type": {
+              "str": "StructuredComment"
+            },
+            "data": [
+              {
+                "label": {
+                  "str": "StructuredCommentPrefix"
+                },
+                "data": {
+                  "str": "##Evidence-Data-START##"
+                }
+              },
+              {
+                "label": {
+                  "str": "Transcript exon combination"
+                },
+                "data": {
+                  "str": "AK090866.1, SRR14038193.4010570.1 [ECO:0000332]"
+                }
+              },
+              {
+                "label": {
+                  "str": "RNAseq introns"
+                },
+                "data": {
+                  "str": "single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]"
+                }
+              },
+              {
+                "label": {
+                  "str": "StructuredCommentSuffix"
+                },
+                "data": {
+                  "str": "##Evidence-Data-END##"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "user": {
+            "class": "1.0",
+            "type": {
+              "str": "AutodefOptions"
+            },
+            "data": [
+              {
+                "label": {
+                  "str": "SpecifyNuclearProduct"
+                },
+                "data": {
+                  "bool": true
+                }
+              },
+              {
+                "label": {
+                  "str": "MaxMods"
+                },
+                "data": {
+                  "int": -99
+                }
+              },
+              {
+                "label": {
+                  "str": "FeatureListType"
+                },
+                "data": {
+                  "str": "List All Features"
+                }
+              },
+              {
+                "label": {
+                  "str": "MiscFeatRule"
+                },
+                "data": {
+                  "str": "NoncodingProductFeat"
+                }
+              },
+              {
+                "label": {
+                  "str": "HIVRule"
+                },
+                "data": {
+                  "str": "WantBoth"
+                }
+              },
+              {
+                "label": {
+                  "str": "CustomFeatureClause"
+                },
+                "data": {
+                  "str": "purinergic receptor P2X 7 (P2RX7), transcript variant 7, non-coding RNA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "create_date": {
+            "std": {
+              "year": 2010,
+              "month": 7,
+              "day": 2
+            }
+          }
+        },
+        {
+          "update_date": {
+            "std": {
+              "year": 2022,
+              "month": 7,
+              "day": 31
+            }
+          }
+        }
+      ],
+      "inst": {
+        "repr": "raw",
+        "mol": "rna",
+        "length": 5028,
+        "seq_data": {
+          "ncbi2na": "FD3FE4BC7A8AA9F9EE95ED2822C89DEB5275992A2A29ED14E5A5E792792E3BFD4B3886040B4768D489383CE914F0BAF7D46E34DFF5C6FEA81DFDF6E38407F740120A508926BEED58B354564A19DEF5DE162BEC00A8E8E8564890283D21682BBB2ECE0A8148217B82DDE5EB954D8A4BA08A555A5E777E04B96007D1EE74D0810CD87D569441C4518804D794AFC04D1FB17D4421D20D44BB54FF5872884DF58804A630FFD23BA43D2A6830EA4F88DC7A87905C85BEBD4D1E5B540C4BF5B65F861085141BB5FB15E9C41F48C650B1C428010EF88068778C02DF6A35BFE135EBFFA45A2803F84F3527AFBB1369D05775C7DADEB088F77FD4E7F2803AFE88282E1C19267EDE4F7552967BBD361F5D3611F1D4B079ED9D533F357AE42E7B495EEEB41831C712820B98B53EE89409613C0B3BB5FEE8E0D513CA3AE05249C72A20B7908ED0A9420B5421798E87D123FB529E55E95D4E111558F5E84148A231279F2028A61D72352A3255B7AE52EE8279754DD075788944AE5E8A27B9E5A0025AA97934517489EF4A09EB5ED4846D792F5D79DC52895F9E99E8EE8F514125A79A47B9712B9C6517A67DA754A13A787F94D795279E59E8A35A022FD608B82A4B12E9F422D7C78252916E9D1B7B0D5267FA8A58A4A48D178ADA8BE88565E9C10A6035EDEC7003100349484EBA4E45E43549C76A29E29108347E056A2922BECB89523EE51E77525EA2912407B5540000022D7C50C92A9E4B253BC1384FC5241F81F45E409DEE944FF4940A80CE7F4DF7BE777BB788902E17AF010148357713A1D220088F88EC2DD077B55282FBB857297745DEE5DEDD7EF95071CDD2233EE2840F884B91381EDFF0EEC08DC4E0E4013F4F38AD21CA30ED41C004057FD35E9E883BA20702BA5103DFE11D0B5542170ABFCDD755F833ABA778F9FCD402E82E13EED2FD235E37C229E127DC7E7B57E81DF9CDAA0948653F00B79735E94AEEBA7445EC35491FEA21429A9A347C0B4A2D4214876504EB805B3770C00C400F27A93AE6A45ECB5C9CD08A7884A2011F817A8AE8AF93E2788DB94791D4A7AB84898875374000000200000EDE5CD788795E7B8A095092D1BA12E5E149549FD094D4254B4501388882097D2B8F7A1D4704CE1E3164E313542E207954C0D480144F9CDF0B570BFAA7CFEF512412B07A048A90978E0EA44487495317D5EBDC3BDD2A25685057A8974A07CAFD47A12F720A9CC85034AC1D148525FA0DCD037079E27150E4F58D74D10F7F878296A6EBA7465EC35491FEA29E29ABA345E2B4A2F621497A504EB8857B771C20C400F2BABBA6BA997B0D5271FA8A78A4A20DDF817A0AE8AF90C2588CB94791D4972304890877B7400104104104010F738780B870027A7F394F0477B1FE4943481E192DEAE7279F40241511447FC53F531341E78833803912E12BFCA35E7D28FD7FD7AFEB4722FA73F37BF7010C9CFF360CBF221473C0CFB878E0A37B83FFF333BDC22F14FF8C5FF0014927F71CCF4EC2124E0C014FFF8C4ABFCFE9FC074A050BC3CE523E07F8FFC717FD0233FC00BA3C71338FDFE89F13F7F1F460F73B47BC42FD4F78E9F7A97FB17FBFFAE5F3D72CEFDCD17C38A5923A2D20EE03C40C347A35371EFF5345F551E39DEA6222E3BB47D07BBB0CED211B5C4304A6D33FB3CFFCBF1EC8030ED16502B8E22D1BFECA37BFDF31F02121F79C6B0F94B3D3A7D7F7BB48220A8DE7F77E9E3F44C93EB0C84E4FDDFDC0AA2C1FFC057D78FF25E90EC2ED7C3B87BFE30F0002B330FC"
+        },
+        "hist": {
+          "assembly": [
+            {
+              "type": "partial",
+              "dim": 2,
+              "segs": {
+                "denseg": {
+                  "dim": 2,
+                  "numseg": 1,
+                  "ids": [
+                    {
+                      "gi": 1701950027
+                    },
+                    {
+                      "gi": 79203945
+                    }
+                  ],
+                  "starts": [
+                    0,
+                    57
+                  ],
+                  "lens": [
+                    66
+                  ],
+                  "strands": [
+                    "plus",
+                    "plus"
+                  ]
+                }
+              }
+            },
+            {
+              "type": "partial",
+              "dim": 2,
+              "segs": {
+                "denseg": {
+                  "dim": 2,
+                  "numseg": 1,
+                  "ids": [
+                    {
+                      "gi": 1701950027
+                    },
+                    {
+                      "gi": 21749107
+                    }
+                  ],
+                  "starts": [
+                    66,
+                    0
+                  ],
+                  "lens": [
+                    985
+                  ],
+                  "strands": [
+                    "plus",
+                    "plus"
+                  ]
+                }
+              }
+            },
+            {
+              "type": "partial",
+              "dim": 2,
+              "segs": {
+                "denseg": {
+                  "dim": 2,
+                  "numseg": 1,
+                  "ids": [
+                    {
+                      "gi": 1701950027
+                    },
+                    {
+                      "gi": 33877741
+                    }
+                  ],
+                  "starts": [
+                    1051,
+                    1110
+                  ],
+                  "lens": [
+                    1026
+                  ],
+                  "strands": [
+                    "plus",
+                    "plus"
+                  ]
+                }
+              }
+            },
+            {
+              "type": "partial",
+              "dim": 2,
+              "segs": {
+                "denseg": {
+                  "dim": 2,
+                  "numseg": 1,
+                  "ids": [
+                    {
+                      "gi": 1701950027
+                    },
+                    {
+                      "gi": 24414260
+                    }
+                  ],
+                  "starts": [
+                    2077,
+                    18876
+                  ],
+                  "lens": [
+                    2951
+                  ],
+                  "strands": [
+                    "plus",
+                    "plus"
+                  ]
+                }
+              }
+            }
+          ],
+          "replaces": {
+            "date": {
+              "std": {
+                "year": 2019,
+                "month": 7,
+                "day": 12
+              }
+            },
+            "ids": [
+              {
+                "gi": 300068998
+              }
+            ]
+          }
+        }
+      },
+      "annot": [
+        {
+          "data": {
+            "ftable": [
+              {
+                "data": {
+                  "gene": {
+                    "locus": "P2RX7",
+                    "desc": "purinergic receptor P2X 7",
+                    "syn": [
+                      "P2X7"
+                    ]
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 0,
+                    "to": 5027,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "dbxref": [
+                  {
+                    "db": "GeneID",
+                    "tag": {
+                      "id": 5027
+                    }
+                  },
+                  {
+                    "db": "HGNC",
+                    "tag": {
+                      "str": "HGNC:8537"
+                    }
+                  },
+                  {
+                    "db": "MIM",
+                    "tag": {
+                      "id": 602566
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "rna": {
+                    "type": "miscRNA",
+                    "ext": {
+                      "gen": {
+                        "product": "purinergic receptor P2X 7, transcript variant 7"
+                      }
+                    }
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 0,
+                    "to": 5027,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "dbxref": [
+                  {
+                    "db": "GeneID",
+                    "tag": {
+                      "id": 5027
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "misc_feats",
+          "desc": [
+            {
+              "title": "Features for non-coding RNA"
+            }
+          ],
+          "data": {
+            "ftable": [
+              {
+                "data": {
+                  "imp": {
+                    "key": "misc_feature"
+                  }
+                },
+                "comment": "primary ORF has stop codon >50 nucleotides from the terminal splice site; nonsense-mediated decay (NMD) candidate",
+                "location": {
+                  "int": {
+                    "from": 95,
+                    "to": 238,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "qual": [
+                  {
+                    "qual": "inference",
+                    "val": "COORDINATES: alignment:Blast2seq::RefSeq|NM_002562.6"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "exons",
+          "data": {
+            "ftable": [
+              {
+                "data": {
+                  "imp": {
+                    "key": "exon"
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 0,
+                    "to": 219,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "qual": [
+                  {
+                    "qual": "inference",
+                    "val": "alignment:Splign:2.1.0"
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "imp": {
+                    "key": "exon"
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 220,
+                    "to": 288,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "qual": [
+                  {
+                    "qual": "inference",
+                    "val": "alignment:Splign:2.1.0"
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "imp": {
+                    "key": "exon"
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 289,
+                    "to": 361,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "qual": [
+                  {
+                    "qual": "inference",
+                    "val": "alignment:Splign:2.1.0"
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "imp": {
+                    "key": "exon"
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 362,
+                    "to": 458,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "qual": [
+                  {
+                    "qual": "inference",
+                    "val": "alignment:Splign:2.1.0"
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "imp": {
+                    "key": "exon"
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 459,
+                    "to": 539,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "qual": [
+                  {
+                    "qual": "inference",
+                    "val": "alignment:Splign:2.1.0"
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "imp": {
+                    "key": "exon"
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 540,
+                    "to": 669,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "qual": [
+                  {
+                    "qual": "inference",
+                    "val": "alignment:Splign:2.1.0"
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "imp": {
+                    "key": "exon"
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 670,
+                    "to": 806,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "qual": [
+                  {
+                    "qual": "inference",
+                    "val": "alignment:Splign:2.1.0"
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "imp": {
+                    "key": "exon"
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 807,
+                    "to": 897,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "qual": [
+                  {
+                    "qual": "inference",
+                    "val": "alignment:Splign:2.1.0"
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "imp": {
+                    "key": "exon"
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 898,
+                    "to": 1197,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "qual": [
+                  {
+                    "qual": "inference",
+                    "val": "alignment:Splign:2.1.0"
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "imp": {
+                    "key": "exon"
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 1198,
+                    "to": 1299,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "qual": [
+                  {
+                    "qual": "inference",
+                    "val": "alignment:Splign:2.1.0"
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "imp": {
+                    "key": "exon"
+                  }
+                },
+                "location": {
+                  "int": {
+                    "from": 1300,
+                    "to": 5027,
+                    "strand": "plus",
+                    "id": {
+                      "gi": 1701950027
+                    }
+                  }
+                },
+                "qual": [
+                  {
+                    "qual": "inference",
+                    "val": "alignment:Splign:2.1.0"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
