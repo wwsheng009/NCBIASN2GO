@@ -8,6 +8,7 @@ import (
 	"ncbiasn/NCBISequence"
 )
 
+//NcbiMimeAsn1,ChoiceOption
 type NcbiMimeAsn1 struct {
 	Entrez     *EntrezGeneral         `xml:"entrez,omitempty" json:"entrez,omitempty"`
 	Alignstruc *BiostrucAlign         `xml:"alignstruc,omitempty" json:"alignstruc,omitempty"`
@@ -17,7 +18,6 @@ type NcbiMimeAsn1 struct {
 	General    *BiostrucSeqsAlignsCdd `xml:"general,omitempty" json:"general,omitempty"`
 }
 
-//NcbiMimeAsn1,ChoiceOption
 type BundleSeqsAligns struct {
 	Sequences       []NCBISequence.SeqEntry       `xml:"sequences,omitempty" json:"sequences,omitempty" asn1:"optional"`
 	Seqaligns       []NCBISequence.SeqAnnot       `xml:"seqaligns,omitempty" json:"seqaligns,omitempty" asn1:"optional"`

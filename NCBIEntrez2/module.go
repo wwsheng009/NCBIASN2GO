@@ -14,6 +14,8 @@ type Entrez2BooleanExp struct {
 	Exp    []Entrez2BooleanElement `xml:"exp,omitempty" json:"exp,omitempty"`
 	Limits *Entrez2Limits          `xml:"limits,omitempty" json:"limits,omitempty" asn1:"optional"`
 }
+
+//Entrez2BooleanElement,ChoiceOption
 type Entrez2BooleanElement struct {
 	Str  string              `xml:"str,omitempty" json:"str,omitempty"`
 	Op   *Entrez2Operator    `xml:"op,omitempty" json:"op,omitempty"`
@@ -22,7 +24,6 @@ type Entrez2BooleanElement struct {
 	Key  string              `xml:"key,omitempty" json:"key,omitempty"`
 }
 
-//Entrez2BooleanElement,ChoiceOption
 type Entrez2BooleanTerm struct {
 	Field          Entrez2FieldId `xml:"field,omitempty" json:"field,omitempty"`
 	Term           string         `xml:"term" json:"term"`
@@ -30,9 +31,10 @@ type Entrez2BooleanTerm struct {
 	DoNotExplode   bool           `xml:"do-not-explode" json:"do_not_explode"`
 	DoNotTranslate bool           `xml:"do-not-translate" json:"do_not_translate"`
 }
-type Entrez2Operator int
 
 //Entrez2Operator,IntegerEnum:and(1),or(2),butnot(3),range(4),left-paren(5),right-paren(6)
+type Entrez2Operator int
+
 type Entrez2Request struct {
 	Request    *E2Request `xml:"request,omitempty" json:"request,omitempty"`
 	Version    int64      `xml:"version" json:"version"`
@@ -40,6 +42,8 @@ type Entrez2Request struct {
 	Cookie     string     `xml:"cookie,omitempty" json:"cookie,omitempty" asn1:"optional"`
 	UseHistory bool       `xml:"use-history" json:"use_history"`
 }
+
+//E2Request,ChoiceOption
 type E2Request struct {
 	GetInfo          interface{}         `xml:"-" json:"-"` //GetInfo,NullType
 	EvalBoolean      *Entrez2EvalBoolean `xml:"eval-boolean,omitempty" json:"eval_boolean,omitempty"`
@@ -52,7 +56,6 @@ type E2Request struct {
 	GetLinkCounts    *Entrez2Id          `xml:"get-link-counts,omitempty" json:"get_link_counts,omitempty"`
 }
 
-//E2Request,ChoiceOption
 type Entrez2EvalBoolean struct {
 	ReturnUIDs  bool               `xml:"return-UIDs" json:"return_UIDs"`
 	ReturnParse bool               `xml:"return-parse" json:"return_parse"`
@@ -104,6 +107,8 @@ type Entrez2Reply struct {
 	Key    string     `xml:"key,omitempty" json:"key,omitempty" asn1:"optional"`
 	Cookie string     `xml:"cookie,omitempty" json:"cookie,omitempty" asn1:"optional"`
 }
+
+//E2Reply,ChoiceOption
 type E2Reply struct {
 	Error            string                `xml:"error,omitempty" json:"error,omitempty"`
 	GetInfo          *Entrez2Info          `xml:"get-info,omitempty" json:"get_info,omitempty"`
@@ -117,7 +122,6 @@ type E2Reply struct {
 	GetLinkCounts    *Entrez2LinkCountList `xml:"get-link-counts,omitempty" json:"get_link_counts,omitempty"`
 }
 
-//E2Reply,ChoiceOption
 type Entrez2Info struct {
 	DbCount   int64           `xml:"db-count" json:"db_count"`
 	BuildDate *Entrez2Dt      `xml:"build-date,omitempty" json:"build_date,omitempty"`
@@ -154,9 +158,10 @@ type Entrez2LinkInfo struct {
 	DbTo      Entrez2DbId   `xml:"db-to,omitempty" json:"db_to,omitempty"`
 	DataSize  int64         `xml:"data-size,omitempty" json:"data_size,omitempty" asn1:"optional"`
 }
-type Entrez2DocsumFieldType int
 
 //Entrez2DocsumFieldType,IntegerEnum:string(1),int(2),float(3),date-pubmed(4)
+type Entrez2DocsumFieldType int
+
 type Entrez2DocsumFieldInfo struct {
 	FieldName        string                  `xml:"field-name" json:"field_name"`
 	FieldDescription string                  `xml:"field-description" json:"field_description"`

@@ -2,6 +2,7 @@ package NCBIBiblio
 
 import "ncbiasn/NCBIGeneral"
 
+//ArticleId,ChoiceOption
 type ArticleId struct {
 	Pubmed  *PubMedId          `xml:"pubmed,omitempty" json:"pubmed,omitempty"`
 	Medline *MedlineUID        `xml:"medline,omitempty" json:"medline,omitempty"`
@@ -13,7 +14,6 @@ type ArticleId struct {
 	Other   *NCBIGeneral.Dbtag `xml:"other,omitempty" json:"other,omitempty"`
 }
 
-//ArticleId,ChoiceOption
 type PubMedId int64
 type MedlineUID int64
 type DOI string

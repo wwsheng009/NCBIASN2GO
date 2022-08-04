@@ -11,9 +11,10 @@ type BlastDefLine struct {
 	Links       []int64            `xml:"links,omitempty" json:"links,omitempty" asn1:"optional"`
 	OtherInfo   []int64            `xml:"other-info,omitempty" json:"other_info,omitempty" asn1:"optional"`
 }
-type BlastFilterProgram int
 
 //BlastFilterProgram,IntegerEnum:not-set(0),dust(10),seg(20),windowmasker(30),repeat(40),other(100),max(255)
+type BlastFilterProgram int
+
 type BlastMaskList struct {
 	Masks []NCBISeqloc.SeqLoc `xml:"masks,omitempty" json:"masks,omitempty"`
 	More  bool                `xml:"more" json:"more"`

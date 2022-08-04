@@ -5,6 +5,7 @@ import (
 	"ncbiasn/NCBISequence"
 )
 
+//ID1serverRequest,ChoiceOption
 type ID1serverRequest struct {
 	Init            interface{}          `xml:"-" json:"-"` //Init,NullType
 	Getgi           *NCBISeqloc.SeqId    `xml:"getgi,omitempty" json:"getgi,omitempty"`
@@ -18,7 +19,6 @@ type ID1serverRequest struct {
 	Getblobinfo     *ID1serverMaxcomplex `xml:"getblobinfo,omitempty" json:"getblobinfo,omitempty"`
 }
 
-//ID1serverRequest,ChoiceOption
 type ID1serverMaxcomplex struct {
 	Maxplex *EntryComplexities `xml:"maxplex,omitempty" json:"maxplex,omitempty"`
 	Gi      int64              `xml:"gi" json:"gi"`

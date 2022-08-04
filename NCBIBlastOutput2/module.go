@@ -17,19 +17,20 @@ type Err struct {
 	Code    int64  `xml:"code" json:"code"`
 	Message string `xml:"message,omitempty" json:"message,omitempty" asn1:"optional"`
 }
+
+//Target,ChoiceOption
 type Target struct {
 	Db       string   `xml:"db,omitempty" json:"db,omitempty"`
 	Subjects []string `xml:"subjects,omitempty" json:"subjects,omitempty"`
 }
 
-//Target,ChoiceOption
+//Results,ChoiceOption
 type Results struct {
 	Iterations []Iteration `xml:"iterations,omitempty" json:"iterations,omitempty"`
 	Search     *Search     `xml:"search,omitempty" json:"search,omitempty"`
 	Bl2seq     []Search    `xml:"bl2seq,omitempty" json:"bl2seq,omitempty"`
 }
 
-//Results,ChoiceOption
 type Iteration struct {
 	IterNum int64   `xml:"iter-num" json:"iter_num"`
 	Search  *Search `xml:"search,omitempty" json:"search,omitempty"`

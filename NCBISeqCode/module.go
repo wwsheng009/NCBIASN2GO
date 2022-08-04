@@ -1,8 +1,8 @@
 package NCBISeqCode
 
+//SeqCodeType,EnumList:iupacna(1),iupacaa(2),ncbi2na(3),ncbi4na(4),ncbi8na(5),ncbipna(6),ncbi8aa(7),ncbieaa(8),ncbipaa(9),iupacaa3(10),ncbistdaa(11)
 type SeqCodeType string
 
-//SeqCodeType,EnumList:iupacna(1),iupacaa(2),ncbi2na(3),ncbi4na(4),ncbi8na(5),ncbipna(6),ncbi8aa(7),ncbieaa(8),ncbipaa(9),iupacaa3(10),ncbistdaa(11)
 type SeqMapTable struct {
 	From    *SeqCodeType `xml:"from,omitempty" json:"from,omitempty"`
 	To      *SeqCodeType `xml:"to,omitempty" json:"to,omitempty"`

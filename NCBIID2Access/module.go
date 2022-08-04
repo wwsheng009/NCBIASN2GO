@@ -27,12 +27,13 @@ type ID2RequestGetSeqId struct {
 	SeqId     *ID2SeqId `xml:"seq-id,omitempty" json:"seq_id,omitempty"`
 	SeqIdType int       `xml:"seq-id-type" json:"seq_id_type"` //SeqIdType,IntegerEnum:any(0),gi(1),text(2),general(4),all(127),label(128),taxid(256),hash(512),seq-length(1024),seq-mol(2048)
 }
+
+//ID2SeqId,ChoiceOption
 type ID2SeqId struct {
 	String string            `xml:"string,omitempty" json:"string,omitempty"`
 	SeqId  *NCBISeqloc.SeqId `xml:"seq-id,omitempty" json:"seq_id,omitempty"`
 }
 
-//ID2SeqId,ChoiceOption
 type ID2RequestGetBlobId struct {
 	SeqId    *ID2RequestGetSeqId `xml:"seq-id,omitempty" json:"seq_id,omitempty"`
 	Sources  []string            `xml:"sources,omitempty" json:"sources,omitempty" asn1:"optional"`
@@ -101,9 +102,10 @@ type ID2ReplyGetSeqId struct {
 	SeqId      []NCBISeqloc.SeqId  `xml:"seq-id,omitempty" json:"seq_id,omitempty" asn1:"optional"`
 	EndOfReply interface{}         `xml:"-" json:"-" asn1:"optional"` //EndOfReply,NullType
 }
-type ID2BlobState string
 
 //ID2BlobState,EnumList:live(0),suppressed-temp(1),suppressed(2),dead(3),protected(4),withdrawn(5)
+type ID2BlobState string
+
 type ID2ReplyGetBlobId struct {
 	SeqId        *NCBISeqloc.SeqId               `xml:"seq-id,omitempty" json:"seq_id,omitempty"`
 	BlobId       *ID2BlobId                      `xml:"blob-id,omitempty" json:"blob_id,omitempty" asn1:"optional"`

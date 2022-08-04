@@ -67,12 +67,13 @@ type SplicedSeg struct {
 	ProductLength int64                `xml:"product-length,omitempty" json:"product_length,omitempty" asn1:"optional"`
 	Modifiers     []SplicedSegModifier `xml:"modifiers,omitempty" json:"modifiers,omitempty" asn1:"optional"`
 }
+
+//SplicedSegModifier,ChoiceOption
 type SplicedSegModifier struct {
 	StartCodonFound bool `xml:"start-codon-found,omitempty" json:"start_codon_found,omitempty"`
 	StopCodonFound  bool `xml:"stop-codon-found,omitempty" json:"stop_codon_found,omitempty"`
 }
 
-//SplicedSegModifier,ChoiceOption
 type SplicedExon struct {
 	ProductStart       *ProductPos              `xml:"product-start,omitempty" json:"product_start,omitempty"`
 	ProductEnd         *ProductPos              `xml:"product-end,omitempty" json:"product_end,omitempty"`
@@ -89,12 +90,13 @@ type SplicedExon struct {
 	Partial            bool                     `xml:"partial,omitempty" json:"partial,omitempty" asn1:"optional"`
 	Ext                []NCBIGeneral.UserObject `xml:"ext,omitempty" json:"ext,omitempty" asn1:"optional"`
 }
+
+//ProductPos,ChoiceOption
 type ProductPos struct {
 	Nucpos  int64    `xml:"nucpos,omitempty" json:"nucpos,omitempty"`
 	Protpos *ProtPos `xml:"protpos,omitempty" json:"protpos,omitempty"`
 }
 
-//ProductPos,ChoiceOption
 type ProtPos struct {
 	Amin  int64 `xml:"amin" json:"amin"`
 	Frame int64 `xml:"frame" json:"frame" asn1:"default:0"`
